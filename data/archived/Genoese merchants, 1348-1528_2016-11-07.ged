@@ -1,0 +1,6465 @@
+0 HEAD
+1 CHAR UTF-8
+1 SOUR Ancestry.com Family Trees
+2 VERS (2010.3)
+2 NAME Ancestry.com Family Trees
+2 CORP Ancestry.com
+1 GEDC
+2 VERS 5.5
+2 FORM LINEAGE-LINKED
+0 @P1@ INDI 
+1 BIRT 
+2 DATE a. 1395
+2 PLAC Genova, Liguria, Italy
+2 SOUR @S1454317950@
+3 PAGE Lomellini, Matteo
+3 DATA
+4 DATE 2005
+3 NOTE http://www.treccani.it/enciclopedia/matteo-lomellini_(Dizionario-Biografico)/
+1 DEAT 
+2 DATE p. 1456
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+2 SOUR @S1454317950@
+3 PAGE Lomellini, Matteo
+3 DATA
+4 DATE 2005
+3 NOTE http://www.treccani.it/enciclopedia/matteo-lomellini_(Dizionario-Biografico)/
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+2 SOUR @S1454317950@
+3 PAGE Lomellini, Matteo
+3 DATA
+4 DATE 2005
+3 NOTE http://www.treccani.it/enciclopedia/matteo-lomellini_(Dizionario-Biografico)/
+1 NAME Matteo /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+2 SOUR @S1454317950@
+3 PAGE Lomellini, Matteo
+3 DATA
+4 DATE 2005
+3 NOTE http://www.treccani.it/enciclopedia/matteo-lomellini_(Dizionario-Biografico)/
+1 _ELEC Elected as an anziano.
+2 DATE 1417
+2 PLAC Genova, Liguria, Italy
+1 _ELEC Elected as a consigliere.
+2 DATE 1423
+2 PLAC Genova, Liguria, Italy
+1 _MISN Send on a diplomatic mission to Milano to renew the oath of allegiance to Filippo Maria Visconti.
+2 DATE 1422
+2 PLAC Milano, Lombardia, Italy
+1 EVEN Battilana indicates that Matteo was active circa 1433, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1433
+1 EVEN Battilana indicates that Matteo was active circa 1407, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1407
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN 
+2 TYPE Embassy
+2 DATE 1436
+2 PLAC Firenze, Toscana, Italy
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=8aa6ced0-5d7f-4e9d-b52b-f4eda5de6535&tid=105018379&pid=1
+2 FORM jpg
+2 TITL Lomellini
+1 FAMC @F4@
+1 FAMS @F1@
+1 FAMS @F2@
+1 FAMS @F3@
+0 @P2@ INDI 
+1 DEAT Terminus post quem of death of 1456 based on the birth of her daughter Battina in the same year.
+2 DATE p. 1456
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Battina /Spinola/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMS @F1@
+0 @P3@ INDI 
+1 DEAT Battilana indicates that his wife Maria was documented as a widow circa 1461, and given his activity in 1459, it seems that Antonio died sometime between 1459-1461.
+2 DATE a. 1461
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Antonio /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Antonio was active circa 1459, but provides no citation or indication of the type of activity. It may be a testamentum, based on the activity indicated for his siblings in the same year.
+2 TYPE Activity
+2 DATE 1459
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=2b5dfe00-2b1e-4f16-b83f-e3a8ac523377&tid=105018379&pid=3
+2 FORM jpg
+2 TITL Lomellini 
+1 FAMC @F1@
+1 FAMS @F6@
+0 @P4@ INDI 
+1 DEAT Terminus post quem of death of 1459 based on latest documented activity.
+2 DATE p. 1459
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Pietra /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 ORDN Pietra enters a monastery.
+2 DATE 1459
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F1@
+0 @P5@ INDI 
+1 BIRT Based on the assumption of being at least 15 years of age when she married Matteo.
+2 DATE a. 1416
+1 DEAT 
+2 DATE p. 1431
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Sobrana /Fieschi/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F108@
+1 FAMS @F2@
+1 FAMS @F9@
+0 @P6@ INDI 
+1 NAME Teodora
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMS @F3@
+0 @P7@ INDI 
+1 NAME Andalò /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=2b5dfe00-2b1e-4f16-b83f-e3a8ac523377&tid=105018379&pid=7
+2 FORM jpg
+2 TITL Lomellini 
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=8aa6ced0-5d7f-4e9d-b52b-f4eda5de6535&tid=105018379&pid=7
+2 FORM jpg
+2 TITL Lomellini
+1 FAMC @F1@
+0 @P8@ INDI 
+1 BIRT Terminus ante quem of birth of 1456 based on the death of her father Matteo that same year.
+2 DATE a. 1456
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Battina /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F1@
+1 FAMS @F19@
+0 @P9@ INDI 
+1 NAME Andreola /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F1@
+1 FAMS @F17@
+0 @P10@ INDI 
+1 BIRT Since her son Matteo Lomellini was born about 1395, we can assume that Pietra was likely born sometime before 1380.
+2 DATE a. 1380
+1 NAME Pietra /Doria/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F109@
+1 FAMS @F4@
+0 @P11@ INDI 
+1 BIRT Terminus ante quem of birth of 1383  based on earliest documented activity.
+2 DATE a. 1383
+1 DEAT Terminus post quem of death of 1409 based on latest documented activity.
+2 DATE p. 1409
+1 NAME Leonello /Lomellini/
+2 SOUR @S1454317950@
+3 PAGE Lomellini, Matteo
+3 DATA
+4 DATE 2005
+3 NOTE http://www.treccani.it/enciclopedia/matteo-lomellini_(Dizionario-Biografico)/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plates 31, 39
+1 SEX M
+2 SOUR @S1454317950@
+3 PAGE Lomellini, Matteo
+3 DATA
+4 DATE 2005
+3 NOTE http://www.treccani.it/enciclopedia/matteo-lomellini_(Dizionario-Biografico)/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plates 31, 39
+1 EVEN Battilana indicates that Leonello was active circa 1402, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1402
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plates 31, 39
+1 EVEN Battilana indicates that Leonello was active circa 1383, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1383
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plates 31, 39
+1 EVEN Leonello changes his allegiance from the Guelfs (for whom the Lomelllini had traditionally supported) to the Ghibellines.
+2 TYPE Political
+2 DATE Sep 1409
+2 PLAC Corsica, France
+2 SOUR @S1454317950@
+3 PAGE Lomellini, Matteo
+3 DATA
+4 DATE 2005
+3 NOTE http://www.treccani.it/enciclopedia/matteo-lomellini_(Dizionario-Biografico)/
+1 FAMC @F5@
+1 FAMS @F4@
+0 @P12@ INDI 
+1 DEAT Battilana notes that he died without children.
+2 DATE 1420
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Baldassare /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Baldassare was active circa 1400, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1400
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F4@
+0 @P13@ INDI 
+1 DEAT Terminus post quem of death of 1459 based on latest documented activity.
+2 DATE p. 1459
+1 BIRT Terminus ante quem of birth of 1410 based on earliest documented activity.
+2 DATE a. 1410
+1 NAME Argenta /Lomellini/
+2 SOUR @S1454317950@
+3 PAGE Lomellini, plate 39
+1 SEX F
+2 SOUR @S1454317950@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Argenta was active circa 1459, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1459
+2 SOUR @S1454317950@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Argenta was active circa 1410, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1410
+2 SOUR @S1454317950@
+3 PAGE Lomellini, plate 39
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=2b5dfe00-2b1e-4f16-b83f-e3a8ac523377&tid=105018379&pid=13
+2 FORM jpg
+2 TITL Lomellini 
+1 FAMC @F4@
+1 FAMS @F16@
+0 @P14@ INDI 
+1 NAME Stefano /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Stefano was active circa 1414, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1414
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F4@
+1 FAMS @F7@
+1 FAMS @F8@
+0 @P15@ INDI 
+1 DEAT 
+2 DATE p. 1416
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Clarisia /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Clarisia was active circa 1416, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1416
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F4@
+1 FAMS @F15@
+0 @P16@ INDI 
+1 DEAT 
+2 DATE p. 1414
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Brigida /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Argenta was active circa 1414, but provides no citation or indication of the type of activity.
+2 TYPE Active
+2 DATE 1414
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F4@
+1 FAMS @F14@
+0 @P17@ INDI 
+1 BIRT Terminus ante quem of birth of 1417 based on earliest documented activity.
+2 DATE a. 1417
+1 DEAT Terminus post quem of death of 1484 based on latest documented activity.
+2 DATE p. 1484
+1 NAME Teodora /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Teodora was active circa 1484, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1484
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Teodora was active circa 1460, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1460
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Teodora was active circa 1417, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1417
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F4@
+1 FAMS @F11@
+1 FAMS @F12@
+1 FAMS @F13@
+0 @P18@ INDI 
+1 DEAT Terminus post quem of death of 1414 based on latest documented activity.
+2 DATE p. 1414
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Maria /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Maria was active circa 1414, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1414
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F4@
+1 FAMS @F10@
+0 @P19@ INDI 
+1 BIRT Terminus ante quem of birth of 1350 based on earliest documented activity.
+2 DATE a. 1350
+1 DEAT Terminus post quem of death of 1399 based on latest documented activity.
+2 DATE p. 1399
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 NAME Napoleone /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 EVEN Battilana indicates that Napoleone was active circa 1399, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1399
+1 EVEN Battilana indicates that Napoleone was active circa 1387, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1387
+1 EVEN Battilana indicates that Napoleone was active circa 1350, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1350
+1 FAMC @F76@
+1 FAMS @F5@
+0 @P20@ INDI 
+1 BIRT Assuming that Teodora was at least 16 years of age when she gave birth to Niccolò, who was born on or before 1362, we can estimate that Teodora was born on or before 1346.
+2 DATE a. 1346
+1 DEAT Based on her being documented as alive in the will of 1399.
+2 DATE p. 1399
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 NAME Teodora /di Negro/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 WILL Named as the primary executor in the will of her husband Napoleone.
+2 DATE 1399-11-24
+2 PLAC Genova, Liguria, Italy
+1 FAMC @F110@
+1 FAMS @F5@
+0 @P21@ INDI 
+1 NAME Caterina
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMS @F76@
+0 @P22@ INDI 
+1 BIRT Terminus ante quem of birth of 1330 based on Leonello most likely being at least 20 at the birth of his son Napoleone.
+2 DATE a. 1330
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 NAME Leonello /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMC @F111@
+1 FAMS @F76@
+0 @P23@ INDI 
+1 BIRT 
+2 DATE a. 1396
+1 DEAT 
+2 DATE p. 1402
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 NAME Andrea /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 EVEN Battilana indicates that Andrea was active circa 1402, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1402
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 EVEN Battilana indicates that Andrea was active circa 1396, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1396
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 NOTE Battilana notes that Andrea is the root of the so-called "del Porto" branch of the Lomellini family.
+1 NOTE Battilana notes that Andrea is the root of the so-called "del Porto" branch of the Lomellini family.
+1 FAMC @F5@
+0 @P24@ INDI 
+1 DEAT Battilana indicates that Pietro dies in 1402, but provides no citation.
+2 DATE 1402
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 NAME Pietro /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMC @F5@
+0 @P25@ INDI 
+1 DEAT Battilana indicates that Tommasso died in 1402, but provides no citation.
+2 DATE 1402
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 NAME Tommaso /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMC @F5@
+0 @P26@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 DEAT 
+2 DATE 1402
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 NAME Ansaldo /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMC @F5@
+0 @P27@ INDI 
+1 DEAT Terminus post quem of death of 1383 based on latest documented activity.
+2 DATE p. 1383
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 NAME Galeotto /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 EVEN Battilana indicates that Galeotto was active circa 1383, but provides no citation or indication of the type of activity.
+2 TYPE Active
+2 DATE 1383
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMC @F5@
+0 @P28@ INDI 
+1 BIRT Terminus ante quem of birth of 1402 based on earliest documented activity.
+2 DATE a. 1402
+1 DEAT Terminus post quem of death of 1409 based on latest documented activity.
+2 DATE p. 1409
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 NAME Franco /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 EVEN Battilana indicates that Franco was active circa 1409, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1409
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 EVEN Battilana indicates that Franco was active circa 1402, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1402
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMC @F5@
+0 @P29@ INDI 
+1 DEAT Terminus post quem of death of 1418 based on last documented activity
+2 DATE p. 1418
+1 BIRT Terminus ante quem of birth of 1378 based on earliest documented activity
+2 DATE a. 1378
+1 NAME Benedetta /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 EVEN Battilana indicates that Benedetta was active circa 1418, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1418
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 EVEN Battilana indicates that Benedetta was active circa 1378, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1378
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMC @F5@
+1 FAMS @F74@
+0 @P30@ INDI 
+1 DEAT The last activity noted for Bianca was her as a widow in 1427 so we can assume this date as a terminus post quem for her death.
+2 DATE p. 1427
+1 BIRT 
+2 DATE a. 1393
+1 NAME Bianca /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 EVEN Battilana indicates that Bianca was active circa 1427, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1427
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 EVEN Battilana indicates that Bianca was active circa 1393, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1393
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMC @F5@
+1 FAMS @F73@
+0 @P31@ INDI 
+1 DEAT Terminus post quem of death of 1411 based on latest documented activity.
+2 DATE p. 1411
+1 BIRT Terminus ante quem of birth of 1399 based on the terminus ante quem of the death of the mother Teodora being 1399.
+2 DATE a. 1399
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 NAME Franca /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 EVEN Battilana indicates that Franca was active circa 1411, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1411
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMC @F5@
+1 FAMS @F72@
+0 @P32@ INDI 
+1 DEAT Terminus post quem of death of 1443 based on latest documented activity.
+2 DATE p. 1443
+1 BIRT Terminus ante quem of birth of 1421 based on earliest documented activity.
+2 DATE a. 1421
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 NAME Francisca /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 EVEN Battilana indicates that Francisca was active circa 1443, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1443
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 EVEN Battilana indicates that Francisca was active circa 1420, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1421
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMC @F5@
+1 FAMS @F71@
+0 @P33@ INDI 
+1 DEAT Battilana indicates that Battista was active circa 1402 and we know that is wife was listed as a widow in 1412, so we have a range for this death between 1402-12.
+2 DATE a. 1412
+2 SOUR @S1454317950@
+3 PAGE LOMELLINI, Battista
+3 DATA
+4 DATE 2005
+3 NOTE http://www.treccani.it/enciclopedia/battista-lomellini_%28Dizionario-Biografico%29/
+1 BIRT 
+2 DATE a. 1395
+2 SOUR @S1454317950@
+3 PAGE LOMELLINI, Battista
+3 DATA
+4 DATE 2005
+3 NOTE http://www.treccani.it/enciclopedia/battista-lomellini_%28Dizionario-Biografico%29/
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+2 SOUR @S1454317950@
+3 PAGE LOMELLINI, Battista
+3 DATA
+4 DATE 2005
+3 NOTE http://www.treccani.it/enciclopedia/battista-lomellini_%28Dizionario-Biografico%29/
+1 NAME Battista /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+2 SOUR @S1454317950@
+3 PAGE LOMELLINI, Battista
+3 DATA
+4 DATE 2005
+3 NOTE http://www.treccani.it/enciclopedia/battista-lomellini_%28Dizionario-Biografico%29/
+1 EVEN Battilana indicates that Battista was active circa 1402, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1402
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+2 SOUR @S1454317950@
+3 PAGE LOMELLINI, Battista
+3 DATA
+4 DATE 2005
+3 NOTE http://www.treccani.it/enciclopedia/battista-lomellini_%28Dizionario-Biografico%29/
+1 EVEN Battilana indicates that Battista was active circa 1395, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1395
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+2 SOUR @S1454317950@
+3 PAGE LOMELLINI, Battista
+3 DATA
+4 DATE 2005
+3 NOTE http://www.treccani.it/enciclopedia/battista-lomellini_%28Dizionario-Biografico%29/
+1 FAMC @F5@
+1 FAMS @F69@
+1 FAMS @F70@
+0 @P34@ INDI 
+1 DEAT Terminus post quem of death of 1402 based on latest documented activity.
+2 DATE p. 1402
+1 BIRT Terminus ante quem of birth of 1383 based on earliest documented activity.
+2 DATE a. 1383
+1 NAME Giorgio /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 EVEN Battilana indicates that Giorgio was active circa 1402, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1402
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 EVEN Battilana indicates that Giorgio was active circa 1383, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1383
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMC @F5@
+0 @P35@ INDI 
+1 BIRT Terminus ante quem of birth of 1362 based upon his daughter Argenta being documented in 1379 and assuming that Niccolò had to be at least 16 years of age to father a daughter.
+2 DATE a. 1362
+1 DEAT Terminus ante quem of death of 1430 based on his wife Luchina being listed as a widow that same year.
+2 DATE a. 1430
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 NAME Niccolò /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 EVEN Battilana indicates that Niccolò was active circa 1402, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1402
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 EVEN Battilana indicates that Niccolò was active circa 1384, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1384
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMC @F5@
+1 FAMS @F68@
+0 @P36@ INDI 
+1 BIRT Terminus ante quem of birth of 1397 based on earliest documented activity.
+2 DATE a. 1397
+1 DEAT Terminus post quem of death of 1427 based on latest documented activity.
+2 DATE p. 1427
+1 NAME Carlo /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plates 31, 33
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plates 31, 33
+1 EVEN Battilana indicates that Carlo was active circa 1427, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1427
+1 EVEN Battilana indicates that Carlo was active circa 1397, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1397
+1 FAMC @F5@
+0 @P37@ INDI 
+1 BIRT Terminus ante quem of birth of 1394 based on earliest documented activity.
+2 DATE a. 1394
+1 DEAT Terminus post quem of death of 1435 based on latest documented activity.
+2 DATE p. 1435
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plates 31, 35
+1 NAME Goffredo /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plates 31, 35
+1 EVEN Battilana indicates that Goffredo was active circa 1435, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1435
+1 EVEN Battilana indicates that Goffredo was active circa 1402, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1402
+1 EVEN Battilana indicates that Goffredo was active circa 1394, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1394
+1 FAMC @F5@
+0 @P38@ INDI 
+1 BIRT Terminus ante quem of birth of 1402 based on earliest documented activity.
+2 DATE a. 1402
+1 DEAT Terminus post quem of death of 1430 based on latest documented activity.
+2 DATE p. 1430
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31, 39
+1 NAME Imperiale /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31, 39
+1 EVEN Battilana indicates that Imperiale was active circa 1430, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1430
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31, 39
+1 EVEN Battilana indicates that Imperiale was active circa 1402, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1402
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31, 39
+1 FAMC @F5@
+1 FAMS @F40@
+1 FAMS @F75@
+0 @P39@ INDI 
+1 NAME Luciano /Doria/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMS @F109@
+0 @P40@ INDI 
+1 DEAT Terminus post quem of death of 1459 based on latest documented activity.
+2 DATE p. 1459
+1 NAME Simona /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Simona was active circa 1459, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1459
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F6@
+1 FAMS @F32@
+0 @P41@ INDI 
+1 DEAT 
+2 DATE 1461
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Eliana /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Eliana was active circa 1459, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1459
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F6@
+1 FAMS @F31@
+0 @P42@ INDI 
+1 BIRT 
+2 DATE a. 1459
+1 DEAT 
+2 DATE p. 1474
+1 NAME Argenta /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Maddalena was active circa 1472, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1472
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Maddalena was active circa 1474, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1474
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Argenta was active circa 1459, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1459
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F6@
+1 FAMS @F30@
+0 @P43@ INDI 
+1 DEAT Terminus post quem of death of 1487 based on latest documented activity.
+2 DATE p. 1487
+1 BIRT Terminus ante quem of birth of 1459 based on earliest documented activity.
+2 DATE a. 1459
+1 NAME Maddalena /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Maddalena might have been widowed a second time in 1487, but provides no citation or clear indication that this is the case, and does not indicate the name of a second husband.
+2 TYPE Activity
+2 DATE 1487
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Maddalena was active circa 1472, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1472
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Maddalena was active circa 1459, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1459
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F6@
+1 FAMS @F29@
+0 @P44@ INDI 
+1 DEAT Terminus post quem of death of 1496 based on latest documented activity.
+2 DATE p. 1496
+1 BIRT Terminus ante quem of birth of 1459 based on earliest documented activity.
+2 DATE a. 1459
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Pellegra /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Pellegra was active circa 1496, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1496
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Pellegra was active circa 1472, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1472
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Pellegra was active circa 1459, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1459
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F6@
+1 FAMS @F28@
+0 @P45@ INDI 
+1 BIRT Terminus ante quem of birth of 1458 based on earliest documented activity.
+2 DATE a. 1458
+1 DEAT Terminus post quem of death of 1498 based on latest documented activity.
+2 DATE p. 1489
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Teodora /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Teodora was active circa 1489, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1489
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Teodora was active circa 1472, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1472
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Teodora was active circa 1458, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1458
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F6@
+1 FAMS @F27@
+0 @P46@ INDI 
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Maria /Spinola/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NOTE Battilana (Lomellini, pl. 39) indicates "q. Cattaneo" but the no entries for Cattaneo Spinola show a daughter names Maria. Leave parents blank for now.
+2 CONT
+1 FAMS @F6@
+0 @P47@ INDI 
+1 DEAT Since Maria Lomellimi is documented as a widow in 1459, we know that Niccolò died during or before this year.
+2 DATE a. 1459
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Niccolò /Fieschi/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F112@
+1 FAMS @F10@
+0 @P48@ INDI 
+1 NAME Ardoino /Doria/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F113@
+1 FAMS @F13@
+0 @P49@ INDI 
+1 DEAT Since Teodora Lomellini was documented as widowed a second time in 1474, we can assume that Niccolò died on or before that year.
+2 DATE a. 1474
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Niccolò /Doria/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMS @F12@
+0 @P50@ INDI 
+1 DEAT Battilana indicates that his wife Teodora was documented as a vedova in 1460, so we know that Marcoaldo was dead by this date.
+2 DATE a. 1460
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Marcoaldo /Gentile/ de Turca
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMS @F11@
+0 @P51@ INDI 
+1 NAME Giuliano /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F114@
+1 FAMS @F14@
+0 @P52@ INDI 
+1 NAME Andrea /Gentile/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMS @F15@
+0 @P53@ INDI 
+1 NAME Argenta /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F18@
+1 FAMS @F7@
+0 @P54@ INDI 
+1 BIRT Terminus ante quem of birth of 1459 based on earliest documented activity.
+2 DATE a. 1459
+1 DEAT Terminus post quem of death of 1490 based on latest documented activity.
+2 DATE p. 1490
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini plate 40
+1 NAME Paolo /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini plate 40
+1 EVEN Battilana indicates that Paolo was active circa 1490, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1490
+2 SOUR @S1454309957@
+3 PAGE Lomellini plate 40
+1 EVEN Battilana indicates that Paolo was active circa 1460, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1460
+2 SOUR @S1454309957@
+3 PAGE Lomellini plate 40
+1 EVEN Battilana indicates that Paolo was active circa 1459, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1459
+2 SOUR @S1454309957@
+3 PAGE Lomellini plate 40
+1 FAMC @F7@
+1 FAMS @F20@
+0 @P55@ INDI 
+1 BIRT 
+2 DATE a. 1433
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 DEAT 
+2 DATE p. 1497
+1 NAME Baldassare /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Baldassare was active circa 1497, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1497
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Baldassare was active circa 1471, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1471
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Baldassare was active circa 1433, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1433
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F7@
+1 FAMS @F23@
+0 @P56@ INDI 
+1 DEAT Terminus post quem of death of 1433 based on latest documented activity.
+2 DATE p. 1433
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Novella /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Novella was active circa 1433, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1433
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F7@
+1 FAMS @F26@
+0 @P57@ INDI 
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 DEAT 
+2 DATE p. 1443
+1 BIRT 
+2 DATE a. 1433
+1 NAME Bianca /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Bianca was active circa 1433, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1433
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Bianca was active circa 1443, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1443
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F7@
+1 FAMS @F24@
+1 FAMS @F25@
+0 @P58@ INDI 
+1 BIRT Terminus ante quem of birth of 1431 based on earliest documented activity.
+2 DATE a. 1431
+1 DEAT Terminus post quem of death of 1481 based on latest documented activity.
+2 DATE p. 1481
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Margarita /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Margarita was active circa 1481, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1481
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Margarita was active circa 1431, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1431
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F7@
+1 FAMS @F22@
+0 @P59@ INDI 
+1 BIRT Terminus ante quem of birth of 1427 based on earliest documented activity.
+2 DATE a. 1427
+1 DEAT Terminus post quem of death of 1457 based on latest documented activity.
+2 DATE p. 1457
+1 NAME Maria /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Maria was active circa 1457, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1457
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Maria was active circa 1427, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1427
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F7@
+1 FAMS @F21@
+0 @P60@ INDI 
+1 DEAT Battilana indicates that Pietra dies in 1459, but provides no citation.
+2 DATE 1459
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Pietra /Usodimare/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F115@
+1 FAMS @F8@
+0 @P61@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Valerano /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F116@
+1 FAMS @F16@
+0 @P62@ INDI 
+1 BIRT Terminus ante quem of birth of 1416 based on the terminus ante quem of the death of the father Lorenzo being 1416 .
+2 DATE a. 1417
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Odoardo /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F18@
+1 FAMS @F17@
+0 @P63@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Paolo /Spinola/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F117@
+1 FAMS @F19@
+0 @P64@ INDI 
+1 DEAT 
+2 DATE 1431
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Adornino /Adorno/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMS @F9@
+0 @P65@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Carlo /Fieschi/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMS @F108@
+0 @P66@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Antonio /Fieschi/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMS @F112@
+0 @P67@ INDI 
+1 NAME Lanfranco /Doria/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMS @F113@
+0 @P68@ INDI 
+1 NAME Leonardo /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMS @F114@
+0 @P69@ INDI 
+1 DEAT Battilana indicates that Maria was documented as a vedova in 1416, so we know that she was living at this time.
+2 DATE p. 1416
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 26
+1 NAME Maria /Gentile Pignoli/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 26
+1 FAMS @F18@
+0 @P70@ INDI 
+1 DEAT Terminus ante quem of death of 1416 based upon the mention of his wife Maria as a widow in the same year.
+2 DATE a. 1416
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 26
+1 NAME Lorenzo /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 26
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 26
+1 FAMS @F18@
+0 @P71@ INDI 
+1 NAME Paolo /Usodimare/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMS @F115@
+0 @P72@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Cosmo /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMS @F116@
+0 @P73@ INDI 
+1 NAME Cattaneo /Spinola/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMS @F117@
+0 @P74@ INDI 
+1 BIRT Terminus ante quem of birth of 1480 based on earliest documented activity.
+2 DATE a. 1480
+1 DEAT Terminus post quem of death of 1490 based on latest documented activity.
+2 DATE p. 1490
+1 NAME Pellegra /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 EVEN Battilana indicates that Pellegra was active circa 1490, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1490
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 EVEN Battilana indicates that Pellegra was active circa 1480, but provides no citation or indication of the type of activity.
+2 TYPE Active
+2 DATE 1480
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMC @F20@
+1 FAMS @F52@
+0 @P75@ INDI 
+1 DEAT Terminus post quem of death of 1490 based on latest documented activity.
+2 DATE p. 1490
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 NAME Despina /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 EVEN Battilana indicates that Despina was active circa 1490, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1490
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMC @F20@
+0 @P76@ INDI 
+1 DEAT Terminus post quem of death of 1490 based on latest documented activity.
+2 DATE p. 1490
+1 NAME Peretta /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 EVEN Battilana indicates that Peretta was active circa 1490, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1490
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMC @F20@
+0 @P77@ INDI 
+1 DEAT Terminus post quem of death of 1490 based on latest documented activity.
+2 DATE p. 1490
+1 NAME Napoleone /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 EVEN Battilana indicates that Napoleone was active circa 1490, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1490
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMC @F20@
+0 @P78@ INDI 
+1 BIRT Terminus ante quem of birth of 1496 based on earliest documented activity. The terminus post quem of his mother's death is 1490, so we can narrow his birth to 1490-96.
+2 DATE a. 1496
+1 DEAT Terminus ante quem of death of 1528 based upon the mention of his wife Niccoletta as a widow in the same year.
+2 DATE a. 1528
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 NAME Gregorio /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 EVEN Battilana indicates that Gregorio was active circa 1496, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1496
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMC @F20@
+1 FAMS @F51@
+0 @P79@ INDI 
+1 DEAT Terminus post quem of death of 1490 based on latest documented activity.
+2 DATE a. 1490
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 NAME Ceva /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 EVEN Battilana indicates that Ceva was active circa 1490, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1490
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 NOTE Battilana indicates that Ceva became a monk sometime after 1490 and changed his name to Francesco.
+1 FAMC @F20@
+0 @P80@ INDI 
+1 DEAT Terminus post quem of death of 1490 based on latest documented activity.
+2 DATE p. 1490
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 NAME Girolamo /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 EVEN Battilana indicates that Girolamo was active circa 1490, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1490
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMC @F20@
+1 FAMS @F49@
+1 FAMS @F50@
+0 @P81@ INDI 
+1 DEAT Terminus post quem of death of 1490 based on latest documented activity.
+2 DATE p. 1490
+1 NAME Giovanni Battista /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 EVEN Battilana indicates that Giovanni Battista was active circa 1490, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1490
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 NOTE Battilana indicates that Giovanni Battista becomes a monk, but provides no citation or date.
+1 FAMC @F20@
+0 @P82@ INDI 
+1 DEAT Battilana indicates that he died in 1490 without children.
+2 DATE 1490
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 NAME Leonello /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMC @F20@
+0 @P83@ INDI 
+1 DEAT Terminus post quem of death of 1490 based on latest documented activity.
+2 DATE p. 1490
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 NAME Battina /Grimaldi/ Oliva
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 EVEN Battilana indicates that Battina was active circa 1490, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1490
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMC @F118@
+1 FAMS @F20@
+0 @P84@ INDI 
+1 DEAT Since his wife Maria Lomellini was documented as a widow in 1457, we can assume that Tommaso died during or before this year.
+2 DATE a. 1457
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Tommaso /Doria/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F119@
+1 FAMS @F21@
+0 @P85@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Corrado /Doria/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMS @F119@
+0 @P86@ INDI 
+1 NAME Acellino /Lercari/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F120@
+1 FAMS @F22@
+0 @P87@ INDI 
+1 NAME Girolamo /Lercari/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F121@
+1 FAMS @F120@
+0 @P88@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Idetto /Lercari/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMS @F121@
+0 @P89@ INDI 
+1 BIRT 
+2 DATE a. 1477
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 DEAT 
+2 DATE p. 1538
+1 NAME Agostino /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Agostino was active circa 1538, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1538
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Agostino was active circa 1477, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1477
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=2b5dfe00-2b1e-4f16-b83f-e3a8ac523377&tid=105018379&pid=89
+2 FORM jpg
+2 TITL Lomellini 
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=8aa6ced0-5d7f-4e9d-b52b-f4eda5de6535&tid=105018379&pid=89
+2 FORM jpg
+2 TITL Lomellini
+1 FAMC @F23@
+1 FAMS @F37@
+0 @P90@ INDI 
+1 DEAT Terminus post quem of death of 1500 based on latest documented activity.
+2 DATE p. 1500
+1 NAME Francisca /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Francisca was active circa 1500, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1500
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F23@
+1 FAMS @F39@
+0 @P91@ INDI 
+1 DEAT Terminus post quem of death of 1519  based on latest documented activity.
+2 DATE p. 1519
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Geronima /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Geronima was active circa 1519, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1519
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F23@
+1 FAMS @F38@
+0 @P92@ INDI 
+1 DEAT Terminus post quem of death of 1482 based on latest documented activity.
+2 DATE p. 1482
+1 NAME Costanza /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Costanza was active circa 1482, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1482
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F23@
+1 FAMS @F36@
+0 @P93@ INDI 
+1 BIRT Given that his second marriage to Giacobo Doria was in 1469, he was very likely born before 1453.
+2 DATE a. 1453
+1 DEAT Battilana indicates that Giacobo Doria was documented as widowed in 1526, so Ambrogio died on or before this year.
+2 DATE a. 1526
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plates 39, 40
+1 NAME Ambrogio /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plates 39, 40
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plates 39, 40
+1 EVEN Battilana indicates that Ambrogio was active circa 1495, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1495
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plates 39, 40
+1 EVEN Battilana indicates that Ambrogio was active circa 1489, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1489
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plates 39, 40
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=2b5dfe00-2b1e-4f16-b83f-e3a8ac523377&tid=105018379&pid=93
+2 FORM jpg
+2 TITL Lomellini 
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=8aa6ced0-5d7f-4e9d-b52b-f4eda5de6535&tid=105018379&pid=93
+2 FORM jpg
+2 TITL Lomellini
+1 FAMC @F23@
+1 FAMS @F34@
+1 FAMS @F35@
+0 @P94@ INDI 
+1 DEAT Battilana indicates that Stefano died in 1497, but provides no citation.
+2 DATE 1497
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Stefano /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F23@
+1 FAMS @F33@
+0 @P95@ INDI 
+1 NAME Benedetta /Doria/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F122@
+1 FAMS @F23@
+0 @P96@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Opicino /Doria/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMS @F122@
+0 @P97@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Luca /Spinola/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F123@
+1 FAMS @F25@
+0 @P98@ INDI 
+1 DEAT Since Bianca Lomellini is documented as a widow in 1433, we know that Antonio died during or before this year.
+2 DATE a. 1433
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Antonio /Doria/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMS @F24@
+0 @P99@ INDI 
+1 NAME Giorgio /Spinola/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMS @F123@
+0 @P100@ INDI 
+1 NAME Brancaleone /Grillo/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F124@
+1 FAMS @F26@
+0 @P101@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Giovanni /Grillo/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMS @F124@
+0 @P102@ INDI 
+1 NAME Goffredo /Lercari/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F125@
+1 FAMS @F27@
+0 @P103@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Filippo /Lercari/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F126@
+1 FAMS @F28@
+0 @P104@ INDI 
+1 DEAT Since Maddalena was documented as a widow in 1467, we know that Domenico died on or before this year.
+2 DATE a. 1467
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Domenico /de Marini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F127@
+1 FAMS @F29@
+0 @P105@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Giorgio /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F128@
+1 FAMS @F30@
+0 @P106@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Giovanni /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F129@
+1 FAMS @F31@
+0 @P107@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Carlo /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F130@
+1 FAMS @F32@
+0 @P108@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Gaspare /Lercari/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMS @F125@
+0 @P109@ INDI 
+1 NAME Tommaso /Lercari/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMS @F126@
+0 @P110@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Giovanni Ambrogio /de Marini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMS @F127@
+0 @P111@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Bartolomeo /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMS @F128@
+0 @P112@ INDI 
+1 NAME Eliano /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMS @F129@
+0 @P113@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plates 31 and 39
+1 NAME Sorleone /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plates 31 and 39
+1 FAMC @F131@
+1 FAMS @F130@
+0 @P114@ INDI 
+1 NAME Cattaneo /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMC @F130@
+1 FAMS @F79@
+0 @P115@ INDI 
+1 NAME Carlo /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMS @F131@
+0 @P116@ INDI 
+1 BIRT Terminus ante quem of birth of 1497 based on the death of the father Ambrogio in that year.
+2 DATE a. 1497
+1 DEAT Terminus post quem of death of 1531 based on latest documented activity.
+2 DATE p. 1531
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Giacoba /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Giacoba was active circa 1531, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1531
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Giacoba was active circa 1511, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1511
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F33@
+1 FAMS @F42@
+0 @P117@ INDI 
+1 DEAT Terminus post quem of death of 1511 based on latest documented activity.
+2 DATE p. 1511
+1 BIRT Terminus ante quem of birth of 1497 based on the death of the father Stefano in the same year.
+2 DATE a. 1497
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Francisca /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Francisca was active circa 1511, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1511
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F33@
+0 @P118@ INDI 
+1 BIRT Terminus ante quem of birth of 1497 based on earliest documented activity.
+2 DATE a. 1497
+1 DEAT Terminus post quem of death of 1562 based on latest documented activity.
+2 DATE p. 1562
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Domenico /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Domenico was active circa 1562, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1562
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Domenico was active circa 1558, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1558
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Domenico was active circa 1497, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1497
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F33@
+0 @P119@ INDI 
+1 DEAT Battilana indicates that his wife Chiara was documented as a widow in 1569.
+2 DATE a. 1569
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 BIRT 
+2 DATE a. 1497
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Bartolomeo /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Bartolomeo was active circa 1531, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1531
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Bartolomeo was active circa 1511, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1511
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Bartolomeo was active circa 1497, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1497
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F33@
+1 FAMS @F41@
+0 @P120@ INDI 
+1 BIRT Terminus ante quem of birth of 1497 based on earliest documented activity.
+2 DATE a. 1497
+1 DEAT Terminus post quem of death of 1560 based on latest documented activity.
+2 DATE p. 1560
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Giovanni Battista /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Giovanni Battista was active circa 1560, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1560
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Giovanni Battista was active circa 1511, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1511
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Giovanni Battista was active circa 1497, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1497
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F33@
+0 @P121@ INDI 
+1 BIRT 
+2 DATE a. 1497
+1 DEAT 
+2 DATE p. 1540
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Antoniotto /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Antoniotto was active circa 1540, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1540
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Antoniotto was active circa 1497, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1497
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Antoniotto was active circa 1511, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1511
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F33@
+0 @P122@ INDI 
+1 DEAT Terminus post quem of death of 1511 based on latest documented activity.
+2 DATE p. 1511
+1 BIRT Terminus ante quem of birth of 1498 based on the death of the father Stefano in 1497.
+2 DATE a. 1498
+1 NAME Pellegra /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Pellegra was active circa 1511, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1511
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F33@
+0 @P123@ INDI 
+1 BIRT Since Antoniotto, one of her sons, appears in the documentation circa 1497, we must assume that she was born, at the latest, before 1482.
+2 DATE a. 1482
+1 DEAT 
+2 DATE p. 1511
+1 NAME Maria /Doria/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 ORDN Battilana indicates that Maria entered monastic service in 1511.
+2 DATE 1511
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F132@
+1 FAMS @F33@
+0 @P124@ INDI 
+1 DEAT Terminus post quem of death of 1526 based on latest documented activity.
+2 DATE p. 1526
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 NAME Isabella /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 EVEN Battilana indicates that Isabella was active circa 1526, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1526
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMC @F34@
+0 @P125@ INDI 
+1 DEAT Terminus post quem of death of 1499 based on latest documented activity.
+2 DATE p. 1499
+1 BIRT Terminus ante quem of birth of 1469 based on earliest documented activity.
+2 DATE a. 1469
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 NAME Maria /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 EVEN Battilana indicates that Filippo was active circa 1499, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1499
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 EVEN Battilana indicates that Maria was active circa 1469, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1469
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMC @F34@
+1 FAMS @F55@
+0 @P126@ INDI 
+1 DEAT Terminus post quem of death of 1551 based on latest documented activity.
+2 DATE p. 1551
+1 BIRT Terminus ante quem of birth of 1469 based on earliest documented activity.
+2 DATE a. 1469
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 NAME Filippo /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 EVEN Battilana indicates that Filippo was active circa 1551, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1551
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 EVEN Battilana indicates that Filippo was active circa 1538, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1538
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 EVEN Battilana indicates that Filippo was active circa 1469, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1469
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMC @F34@
+1 FAMS @F53@
+0 @P127@ INDI 
+1 DEAT Terminus post quem of death of 1495 based on latest documented activity.
+2 DATE p. 1495
+1 BIRT Terminus ante quem of birth of 1469 based on earliest documented activity.
+2 DATE a. 1469
+1 NAME Tommasina /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 EVEN Battilana indicates that Tommasina was active circa 1495, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1495
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 EVEN Battilana indicates that Tommasina was active circa 1469, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1469
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMC @F35@
+1 FAMS @F54@
+0 @P128@ INDI 
+1 DEAT Terminus post quem of death of 1526 based on latest documented activity.
+2 DATE p. 1526
+1 BIRT Terminus ante quem of birth of 1469 based on the death of the mother Lombardina in 1469.
+2 DATE a. 1469
+1 NAME Pellina /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 EVEN Battilana indicates that Pellina was active circa 1526, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1526
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMC @F35@
+0 @P129@ INDI 
+1 DEAT Since Giacoba is documented as being a widow in 1526, we know that she died sometime during or after this year.
+2 DATE p. 1526
+1 BIRT Since we know that Giacoba married Ambrogio Lomellini in 1469, we know that she was born before this date (likely in the 1440s-50s).
+2 DATE a. 1454
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 NAME Giacoba /Doria/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMC @F133@
+1 FAMS @F34@
+0 @P130@ INDI 
+1 DEAT Battilana indicates that Lombardina died in 1469 and that her husband Ambrogio remarried.
+2 DATE 1469
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 NAME Lombardina /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMC @F134@
+1 FAMS @F35@
+0 @P131@ INDI 
+1 NAME Alerame /Pallavicini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F135@
+1 FAMS @F36@
+0 @P132@ INDI 
+1 NAME Gaspare /Negrone/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F136@
+1 FAMS @F38@
+0 @P133@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Marco /Centurione/ Becchignone
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F137@
+1 FAMS @F39@
+0 @P134@ INDI 
+1 DEAT Terminus post quem of death of 1538 based on latest documented activity.
+2 DATE p. 1538
+1 BIRT Terminus ante quem of birth of 1513 based on earliest documented activity.
+2 DATE a. 1513
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Caterina /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Caterina was active circa 1538, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1538
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Caterina was active circa 1533, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1533
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Caterina was active circa 1513, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1513
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F37@
+1 FAMS @F47@
+0 @P135@ INDI 
+1 DEAT Battilana indicates that Simone dies in 1538, but provides no citation.
+2 DATE 1538
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Simone /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F37@
+1 FAMS @F43@
+0 @P136@ INDI 
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Novella /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Novella was active circa 1518, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1518
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F37@
+1 FAMS @F46@
+0 @P137@ INDI 
+1 BIRT Terminus ante quem of birth of 1518 based on earliest documented activity.
+2 DATE a. 1518
+1 DEAT Terminus post quem of death of 1541 based on latest documented activity.
+2 DATE p. 1541
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Peretta /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Peretta was active circa 1541, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1541
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Peretta was active circa 1525, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1525
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Peretta was active circa 1518, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1518
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F37@
+1 FAMS @F44@
+1 FAMS @F45@
+0 @P138@ INDI 
+1 DEAT Terminus post quem of death of 1533 based on latest documented activity.
+2 DATE a. 1533
+1 BIRT Battilana indicates that her child Caterina was active in 1513, so this provides a reasonable terminus ante quem of birth as 1498.
+2 DATE a. 1498
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Argenta /Gentile/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Argenta was active circa 1533, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1533
+1 FAMC @F138@
+1 FAMS @F37@
+0 @P139@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Antoniotto /Doria/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMS @F132@
+0 @P140@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Tobia /Pallavicini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F139@
+1 FAMS @F135@
+0 @P141@ INDI 
+1 NAME Damiano /Pallavicini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMS @F139@
+0 @P142@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Simone /Negrone/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F140@
+1 FAMS @F136@
+0 @P143@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Cosmo /Negrone/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMS @F140@
+0 @P144@ INDI 
+1 NAME Galeotto /Centurione/ Becchignone
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMS @F137@
+0 @P145@ INDI 
+1 SEX M
+2 SOUR @S1454317950@
+3 PAGE Lomellini, plate 31
+1 NAME Giorgio /di Negro/
+2 SOUR @S1454317950@
+3 PAGE Lomellini, plate 31
+1 FAMS @F110@
+0 @P146@ INDI 
+1 DEAT Terminus post quem of death of 1430 based on latest documented activity.
+2 DATE a. 1430
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 NAME Filippo /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 EVEN Battilana indicates that Filippo was active circa 1430, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1430
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMC @F75@
+0 @P147@ INDI 
+1 DEAT Terminus post quem of death of 1450 based on latest documented activity.
+2 DATE p. 1450
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 BIRT Terminus ante quem of birth of 1430 based on earliest documented activity.
+2 DATE a. 1430
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 NAME Angelo Giovanni /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 EVEN Battilana indicates that Angelo Giovanni was active circa 1450, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1450
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 EVEN Battilana indicates that Angelo Giovanni was active circa 1430, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1430
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMC @F40@
+1 FAMS @F84@
+0 @P148@ INDI 
+1 DEAT Terminus post quem of death of 1430 based on latest documented activity.
+2 DATE p. 1430
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 NAME Demetrio /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 EVEN Battilana indicates that Demetrio was active circa 1430, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1430
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMC @F75@
+0 @P149@ INDI 
+1 DEAT Terminus post quem of death of 1430 based on latest documented activity.
+2 DATE p. 1430
+1 SEX M
+1 NAME Sorleone /Lomellini/
+1 EVEN Battilana indicates that Sorleone was active circa 1430, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1430
+1 FAMC @F40@
+0 @P150@ INDI 
+1 DEAT Terminus post quem of death of 1430 based on latest documented activity.
+2 DATE p. 1430
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 NAME Raffaele /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 EVEN Battilana indicates that Raffaele was active circa 1430, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1430
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMC @F40@
+0 @P151@ INDI 
+1 DEAT Battilana indicates that Pietro died in 1447, but provides no citation.
+2 DATE 1447
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 NAME Pietro /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 EVEN Battilana indicates that Pietro was active circa 1430, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1430
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMC @F40@
+1 FAMS @F83@
+0 @P152@ INDI 
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 NAME Maria /de Mari/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMC @F141@
+1 FAMS @F40@
+0 @P153@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 NAME Luchina /Grillo/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMC @F142@
+1 FAMS @F75@
+0 @P154@ INDI 
+1 NAME Lodisio /Gentile/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F143@
+1 FAMS @F138@
+0 @P155@ INDI 
+1 NAME Andrea /Gentile/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMS @F143@
+0 @P156@ INDI 
+1 DEAT Terminus post quem of death of 1569 based on latest documented activity.
+2 DATE p. 1569
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Chiara /Sauli/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 EVEN Battilana indicates that Chiara was documented as a widow in 1569.
+2 TYPE Activity
+2 DATE 1569
+1 FAMC @F144@
+1 FAMS @F41@
+0 @P157@ INDI 
+1 NAME Vincenzo /Sauli/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMS @F144@
+0 @P158@ INDI 
+1 DEAT Giacoba Lomellini is documented as a widow in 1531, so we know that Lorenzo died during or before this year.
+2 DATE a. 1531
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Lorenzo /de Marini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F145@
+1 FAMS @F42@
+0 @P159@ INDI 
+1 NAME Ambrogio /de Marini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMS @F145@
+0 @P160@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Pantaleo /Pallavicini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMS @F45@
+0 @P161@ INDI 
+1 NAME Antonio /de Marini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F146@
+1 FAMS @F44@
+0 @P162@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Cassano /Camilla/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F147@
+1 FAMS @F46@
+0 @P163@ INDI 
+1 DEAT Battilana indicates that Baldassare died in infancy but does not provide a date. Given his father died in 1538, we can assume that his death was sometime before 1539.
+2 DATE a. 1539
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Baldassare /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NOTE Baldassare died as an infant.
+2 CONT
+1 FAMC @F43@
+0 @P164@ INDI 
+1 DEAT Battilana indicates that Brigida re-married Girolamo Lomellini after the death of her first husband Simone in 1538. So this would provide a reasonable terminus post quem for her death of 1540.
+2 DATE p. 1540
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Brigida /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F148@
+1 FAMS @F43@
+1 FAMS @F48@
+0 @P165@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Giorgio /Spinola/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F149@
+1 FAMS @F47@
+0 @P166@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Filippo /de Marini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F150@
+1 FAMS @F146@
+0 @P167@ INDI 
+1 NAME Montano /de Marini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMS @F150@
+0 @P168@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Enrico /Camilla/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMS @F147@
+0 @P169@ INDI 
+1 NAME Cristoforo /Spinola/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMS @F149@
+0 @P170@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Girolamo /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F151@
+1 FAMS @F48@
+0 @P171@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 NAME Leonardo /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMC @F152@
+1 FAMS @F148@
+0 @P172@ INDI 
+1 NAME Pier Francesco /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMS @F152@
+0 @P173@ INDI 
+1 NAME Tobia /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMS @F151@
+0 @P174@ INDI 
+1 NAME Emanuele /Grimaldi/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMC @F153@
+1 FAMS @F118@
+0 @P175@ INDI 
+1 NAME Giovanni /Grimaldi/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMS @F153@
+0 @P176@ INDI 
+1 DEAT Terminus post quem of death of 1528 based on latest documented activity.
+2 DATE p. 1528
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 NAME Pellina /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 EVEN Battilana indicates that Pellina was active circa 1528, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1528
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMC @F50@
+1 FAMS @F56@
+0 @P177@ INDI 
+1 NAME Isabella /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMC @F50@
+0 @P178@ INDI 
+1 NAME Francisca /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMC @F154@
+1 FAMS @F49@
+0 @P179@ INDI 
+1 NAME Tommasina /Pallavicini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMC @F155@
+1 FAMS @F50@
+0 @P180@ INDI 
+1 BIRT Terminus ante quem of birth of 1528 based on earliest documented activity.
+2 DATE a. 1528
+1 DEAT Terminus post quem of death of 1558 based on latest documented activity.
+2 DATE p. 1558
+1 NAME Giovanni Battista /Lomellini/
+1 SEX M
+1 EVEN Battilana indicates that Giovanni Battista was active circa 1558, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1558
+1 EVEN Battilana indicates that Giovanni Battista was active circa 1539, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1539
+1 EVEN Battilana indicates that Giovanni Battista was active circa 1528, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1528
+1 FAMC @F51@
+1 FAMS @F57@
+1 FAMS @F58@
+0 @P181@ INDI 
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 NAME Niccoletta /Grimaldi/ Cebà
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMC @F156@
+1 FAMS @F51@
+0 @P182@ INDI 
+1 NAME Visconte /Cicala/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMC @F157@
+1 FAMS @F52@
+0 @P183@ INDI 
+1 NAME Niccolò /Pallavicini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMS @F155@
+0 @P184@ INDI 
+1 NAME Cosmo /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMS @F154@
+0 @P185@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 NAME Emanuele /Grimaldi/ Cebà
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMS @F156@
+0 @P186@ INDI 
+1 NAME Carlo /Cicala/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMS @F157@
+0 @P187@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 NAME Francesco /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMS @F134@
+0 @P188@ INDI 
+1 NAME Ceva /Doria/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+1 FAMS @F133@
+0 @P189@ INDI 
+1 NAME Giovanni Battista /Spinola/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMC @F158@
+1 FAMS @F54@
+0 @P190@ INDI 
+1 DEAT 
+2 DATE p. 1526
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 NAME Baldassare /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 EVEN Battilana indicates that Baldassare was active circa 1526, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1526
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMC @F53@
+0 @P191@ INDI 
+1 DEAT Terminus post quem of death of 1570 based on latest documented activity.
+2 DATE p. 1570
+1 NAME Gironima /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 EVEN Battilana indicates that Gironima was active circa 1570, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1570
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMC @F53@
+1 FAMS @F62@
+0 @P192@ INDI 
+1 DEAT Battilana indicates that Luigia Spinola, Ambrogio's second wife, appears in the documentation as widowed in 1602, so Ambrogio died on or before this year.
+2 DATE a. 1602
+1 BIRT 
+2 DATE a. 1535
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 NAME Ambrogio /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 EVEN Battilana indicates that Ambrogio was active circa 1590, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1590
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 EVEN Battilana indicates that Ambrogio was active circa 1586, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1586
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 EVEN Battilana indicates that Ambrogio was active circa 1551, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1551
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMC @F53@
+1 FAMS @F60@
+1 FAMS @F61@
+0 @P193@ INDI 
+1 NAME Pellina /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMC @F53@
+1 FAMS @F63@
+0 @P194@ INDI 
+1 BIRT 
+2 DATE a. 1582
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 DEAT 
+2 DATE p. 1586
+1 NAME Agostino /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 EVEN Battilana indicates that Agostino was active circa 1586, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1586
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 EVEN Battilana indicates that Agostino was active circa 1582, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1582
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMC @F53@
+0 @P195@ INDI 
+1 NAME Gironima /Doria/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMC @F159@
+1 FAMS @F53@
+0 @P196@ INDI 
+1 NAME Giovanni Battista /Doria/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMC @F159@
+1 FAMS @F55@
+0 @P197@ INDI 
+1 NAME Tommaso /Spinola/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMS @F158@
+0 @P198@ INDI 
+1 NAME Agostino /Doria/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMS @F159@
+0 @P199@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 NAME Lodisio /Pinelli/ olim de Roxio
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMC @F160@
+1 FAMS @F56@
+0 @P200@ INDI 
+1 NAME Giacomo /de Roxio/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMS @F160@
+0 @P201@ INDI 
+1 DEAT Terminus post quem of death of 1531 based on latest documented activity.
+2 DATE p. 1531
+1 SEX F
+1 NAME Maria /Pinelli/
+1 EVEN Battilana indicates that Teodora was active circa 1531, but provides no citation or indication of the type of activity. I would guess that the document probably refers to her marriage.
+2 TYPE Activity
+2 DATE 1531
+1 FAMC @F161@
+1 FAMS @F57@
+0 @P202@ INDI 
+1 DEAT Terminus post quem of death of 1582 based on latest documented activity.
+2 DATE p. 1582
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 NAME Nicoletta /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 EVEN Battilana indicates that Giovanni Battista was active circa 1582, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1582
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMC @F57@
+0 @P203@ INDI 
+1 DEAT Terminus post quem of death of 1578 based on latest documented activity.
+2 DATE p. 1578
+1 SEX M
+1 NAME Gregorio /Lomellini/
+1 EVEN Battilana indicates that Gregorio was active circa 1578, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1578
+1 FAMC @F57@
+0 @P204@ INDI 
+1 BIRT Terminus ante quem of birth of 1524 based on Maria most likely being 15 or older at the time of marriage.
+2 DATE a. 1524
+1 NAME Maria /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMC @F59@
+1 FAMS @F58@
+0 @P205@ INDI 
+1 NAME Giovanni Battista /Pinelli/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMS @F161@
+0 @P206@ INDI 
+1 NAME Giovanna /Grillo/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 33
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 33
+1 FAMC @F162@
+1 FAMS @F59@
+0 @P207@ INDI 
+1 DEAT Terminus post quem of death of 1498 based on latest documented activity.
+2 DATE p. 1498
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 33
+1 NAME Matteo /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 33
+1 EVEN Battilana indicates that Matteo was active circa 1498, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1498
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 33
+1 FAMS @F59@
+0 @P208@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 33
+1 NAME Lorenzo /Grillo/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 33
+1 FAMS @F162@
+0 @P209@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 NAME Giovanni /de Marini/ Castagna
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMC @F163@
+1 FAMS @F63@
+0 @P210@ INDI 
+1 DEAT 
+2 DATE p. 1592
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 NAME Barbara /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 EVEN Battilana indicates that Giovanni Battista was active circa 1592, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1592
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMC @F61@
+0 @P211@ INDI 
+1 NAME Napoleone /Lomellini/
+2 SOUR @S1454317950@
+3 PAGE Lomellini, plate 40
+1 SEX M
+2 SOUR @S1454317950@
+3 PAGE Lomellini, plate 40
+1 FAMC @F61@
+1 FAMS @F64@
+0 @P212@ INDI 
+1 BIRT Terminus ante quem of birth of 1592 based on earliest documented activity.
+2 DATE a. 1592
+1 DEAT Terminus post quem of death of 1646 based on latest documented activity.
+2 DATE p. 1646
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 NAME Gironima /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 EVEN Battilana indicates that Gironima was active circa 1646, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1646
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 EVEN Battilana indicates that Gironima was active circa 1592, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1592
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMC @F61@
+1 FAMS @F65@
+0 @P213@ INDI 
+1 DEAT Terminus post quem of death of 1602 based on latest documented activity.
+2 DATE p. 1602
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 NAME Maria Luigia /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 EVEN Battilana indicates that Maria Luigia was active circa 1602, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1602
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 ORDN Battilana indicates that Maria Luigia was a nun, but provides no additional details.
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMC @F60@
+0 @P214@ INDI 
+1 DEAT Terminus post quem of death of 1602 based on latest documented activity.
+2 DATE p. 1602
+1 BIRT Terminus ante quem of birth of 1592 based on earliest documented activity.
+2 DATE a. 1592
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 NAME Giulia /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 EVEN Battilana indicates that Giulia was active circa 1602, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1602
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 EVEN Battilana indicates that Giulia was active circa 1592, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1592
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMC @F60@
+1 FAMS @F67@
+0 @P215@ INDI 
+1 BIRT Terminus ante quem of birth of 1602 based on the terminus ante quem of the death of the father Ambrogio being 1602.
+2 DATE a. 1602
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 NAME Filippo /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMC @F60@
+0 @P216@ INDI 
+1 DEAT Terminus post quem of death of 1602 based on latest documented activity.
+2 DATE p. 1602
+1 BIRT Terminus ante quem of birth of 1592 based on earliest documented activity.
+2 DATE a. 1592
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 NAME Camilla /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 EVEN Battilana indicates that Camilla was active circa 1602, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1602
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 EVEN Battilana indicates that Camilla was active circa 1592, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1592
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMC @F60@
+1 FAMS @F66@
+0 @P217@ INDI 
+1 DEAT Terminus post quem of death of 1622 based on latest documented activity.
+2 DATE p. 1622
+1 BIRT Terminus ante quem of birth of 1593 based on earliest documented activity.
+2 DATE a. 1593
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 NAME Francesco /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 EVEN Battilana indicates that Francesco was active circa 1622, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1622
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 EVEN Battilana indicates that Francesco was active circa 1593, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1593
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMC @F60@
+0 @P218@ INDI 
+1 DEAT Terminus post quem of death of 1592 based on latest documented activity.
+2 DATE p. 1592
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 NAME Giovanni Battista /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 EVEN Battilana indicates that Giovanni Battista was active circa 1592, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1592
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMC @F60@
+0 @P219@ INDI 
+1 DEAT Terminus post quem of death of 1593 based on latest documented activity.
+2 DATE p. 1593
+1 NAME Luigia /Spinola/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 EVEN Battilana indicates that Luigia was widowed circa 1593, but it is unclear whether this is the actual date.
+2 TYPE Widowed
+2 DATE 1593
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMC @F164@
+1 FAMS @F60@
+0 @P220@ INDI 
+1 BIRT Nicoletta was likely born before 1536, assuming the earliest likely age she would marry Ambrogio would be 15 years.
+2 DATE a. 1536
+1 DEAT Earliest possible date of death would be post-1554 based on having three children after marrying Ambrogio Lomellini in 1551.
+2 DATE p. 1554
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 NAME Nicoletta /de Mari/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMC @F165@
+1 FAMS @F61@
+0 @P221@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 NAME Giovanni Maria /Spinola/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMC @F166@
+1 FAMS @F62@
+0 @P222@ INDI 
+1 NAME Rafaele /de Mari/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMS @F165@
+0 @P223@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 NAME Francesco /Spinola/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMC @F167@
+1 FAMS @F164@
+0 @P224@ INDI 
+1 NAME Agostino /Spinola/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMS @F167@
+0 @P225@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 NAME Benedetto /Spinola/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMS @F166@
+0 @P226@ INDI 
+1 NAME Luchino /de Marini/ Castagna
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMS @F163@
+0 @P227@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 NAME Ferdinando /Gattinara/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMS @F66@
+0 @P228@ INDI 
+1 NAME Francesco /Ravaschiero/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMS @F67@
+0 @P229@ INDI 
+1 NAME Tommaso /Lercari/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMC @F168@
+1 FAMS @F65@
+0 @P230@ INDI 
+1 DEAT Terminus post quem of death of 1591 based on latest documented activity.
+2 DATE p. 1591
+1 BIRT Terminus ante quem of birth of 1552 based on Emilia most likely being 15 or older at the time of marriage.
+2 DATE a. 1552
+1 NAME Emilia /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 EVEN Battilana indicates that Emilia was active circa 1591, but the citation is unclear: it might be that she was widowed in 1591.
+2 TYPE Activity
+2 DATE 1591
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMC @F169@
+1 FAMS @F64@
+0 @P231@ INDI 
+1 NAME Giorgio Maria /Lercari/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMC @F170@
+1 FAMS @F168@
+0 @P232@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 NAME Giovanni Battista /Lercari/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMS @F170@
+0 @P233@ INDI 
+1 NAME Paolo Vincenzo /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+1 FAMS @F169@
+0 @P234@ INDI 
+1 DEAT Terminus post quem of death of 1422 based on latest documented activity.
+2 DATE p. 1422
+1 BIRT Terminus ante quem of birth of 1379 based on earliest documented activity.
+2 DATE a. 1379
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 NAME Sobrana /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 EVEN Battilana indicates that Sobrana was documented as widowed in 1422.
+2 TYPE Widowed
+2 DATE 1422
+1 EVEN Battilana indicates that Sobrana was active in 1379, but provides no source nor indicates the type of activity.
+2 TYPE Activity
+2 DATE 1422
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 EVEN Battilana indicates that Sobrana was active in 1379, but provides no source nor indicates the type of activity.
+2 TYPE Activity
+2 DATE 1379
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMC @F68@
+1 FAMS @F93@
+0 @P235@ INDI 
+1 BIRT Terminus ante quem of birth of 1412 based on earliest documented activity.
+2 DATE a. 1412
+1 DEAT 
+2 DATE p. 1467
+1 NAME Domenico /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 EVEN Battilana indicates that Domenico was active in 1467, but provides no source nor indicates the type of activity.
+2 TYPE Activity
+2 DATE 1467
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 EVEN Battilana indicates that Domenico was active in 1458, but provides no source nor indicates the type of activity.
+2 TYPE Activity
+2 DATE 1458
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 EVEN Battilana indicates that Domenico was active in 1412, but provides no source nor indicates the type of activity.
+2 TYPE Activity
+2 DATE 1412
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMC @F68@
+1 FAMS @F89@
+1 FAMS @F90@
+0 @P236@ INDI 
+1 DEAT Terminus post quem of death of 1391 based on latest documented activity.
+2 DATE p. 1391
+1 BIRT Terminus ante quem of birth of 1387 based on earliest documented activity.
+2 DATE a. 1378
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plates 14, 32
+3 NOTE Battilana makes a mistake in stating that Franca marries Tobia q. Benedetto (the Tobia on plate 8). The correct person is Tobia. q. Tobia q. Benedetto (see plate 14)
+1 NAME Franca /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plates 14, 32
+3 NOTE Battilana makes a mistake in stating that Franca marries Tobia q. Benedetto (the Tobia on plate 8). The correct person is Tobia. q. Tobia q. Benedetto (see plate 14)
+1 EVEN Battilana indicates that Franca was active circa 1391, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1391
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plates 14, 32
+3 NOTE Battilana makes a mistake in stating that Franca marries Tobia q. Benedetto (the Tobia on plate 8). The correct person is Tobia. q. Tobia q. Benedetto (see plate 14)
+1 EVEN Battilana indicates that Franca was active circa 1378, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1378
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plates 14, 32
+3 NOTE Battilana makes a mistake in stating that Franca marries Tobia q. Benedetto (the Tobia on plate 8). The correct person is Tobia. q. Tobia q. Benedetto (see plate 14)
+1 FAMC @F68@
+1 FAMS @F92@
+0 @P237@ INDI 
+1 DEAT Battilana indicates that Angelo dies in 1435, but provides no citation.
+2 DATE 1435
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 BIRT Terminus ante quem of birth of 1419 based on earliest documented activity.
+2 DATE a. 1419
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 NAME Angelo /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 EVEN Battilana indicates that Angelo was active circa 1419, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1419
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMC @F68@
+0 @P238@ INDI 
+1 DEAT Terminus ante quem of birth of 1396 based on earliest documented activity.
+2 DATE p. 1396
+1 SEX F
+1 NAME Argenta /Lomellini/
+1 EVEN Battilana indicates that Argenta was active circa 1396, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1396
+1 FAMC @F68@
+1 FAMS @F91@
+0 @P239@ INDI 
+1 BIRT Terminus ante quem of birth of 1412 based on earliest documented activity.
+2 DATE a. 1412
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 DEAT Terminus ante quem of death of 1437 based on his wife Violante being documented as a widow that same year.
+2 DATE a. 1437
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 NAME Gaspare /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 EVEN Battilana indicates that Gaspare was active circa 1435, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1435
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 EVEN Battilana indicates that Gaspare was active circa 1419, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1419
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 EVEN Battilana indicates that Gaspare was active circa 1412, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1412
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMC @F68@
+1 FAMS @F88@
+0 @P240@ INDI 
+1 DEAT Terminus post quem of death of 1430 based on Luchina being documented as a widow that same year.
+2 DATE p. 1430
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 BIRT Terminus ante quem of birth of 1362 based on the terminus ante quem of her daughter Franca of 1378 (latest activity) and assuming she was at least 16 years old in order to give birth.
+2 DATE a. 1362
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 NAME Luchina /Lercari/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMC @F171@
+1 FAMS @F68@
+0 @P241@ INDI 
+1 BIRT Since her father died on or before 1412, we can place a terminus ante quem of birth of 1412.
+2 DATE a. 1412
+1 DEAT The last activity we have for Battina is from 1453, so we know that this is her terminus post quem date of death.
+2 DATE p. 1453
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 NAME Battina /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 EVEN Battilana indicates that Battina was documented as a widow in 1450, but provides no citation.
+2 TYPE Widowed
+2 DATE 1450
+1 EVEN Battilana indicates that Battina was active circa 1453, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1453
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMC @F69@
+1 FAMS @F82@
+0 @P242@ INDI 
+1 DEAT Terminus post quem of death of 1453 based on latest documented activity.
+2 DATE p. 1453
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 BIRT Terminus ante quem of birth of 1450 based on earliest documented activity.
+2 DATE a. 1450
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 NAME Innocente /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 EVEN Battilana indicates that Innocente was active circa 1453, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1453
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 EVEN Battilana indicates that Innocente was active circa 1450, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1450
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMC @F69@
+1 FAMS @F81@
+0 @P243@ INDI 
+1 BIRT Terminus ante quem of birth of 1592 based on earliest documented activity.
+2 DATE a. 1413
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 DEAT Terminus post quem of death of 1460 based on latest documented activity.
+2 DATE p. 1460
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 NAME Maria /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 EVEN Battilana indicates that Maria was active circa 1460, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1460
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 EVEN Battilana indicates that Maria was active circa 1413, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1413
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMC @F69@
+1 FAMS @F80@
+0 @P244@ INDI 
+1 BIRT Terminus ante quem of birth of 1412 based on earliest documented activity.
+2 DATE a. 1412
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 DEAT Terminus post quem of death of 1452 based on latest documented activity.
+2 DATE p. 1452
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 NAME Oberto /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 EVEN Battilana indicates that Oberto was active circa 1452, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1452
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 EVEN Battilana indicates that Oberto was active circa 1412, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1412
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMC @F69@
+0 @P245@ INDI 
+1 DEAT As we know that he was active in 1433 and that his wife was listed as a widow in 1435, so we can place his death between 1433 and 1435.
+2 DATE a. 1435
+1 SEX M
+1 NAME Battista /Lomellini/
+1 EVEN Battilana indicates that Battista was active circa 1433, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1433
+1 FAMC @F70@
+1 FAMS @F78@
+0 @P246@ INDI 
+1 DEAT The last documented activity for Brigida is in 1450, thus placing this year as the terminus post quem for her death.
+2 DATE p. 1450
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 NAME Brigida /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 EVEN Battilana indicates that Brigida was active circa 1450, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1450
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMC @F69@
+1 FAMS @F79@
+0 @P247@ INDI 
+1 DEAT Terminus post quem of death of 1412 based on latest documented activity.
+2 DATE p. 1412
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 NAME Girolamo /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 EVEN Battilana indicates that Girolamo was active circa 1412, but provides no citation or indication of the type of activity. He also notes that he died without children.
+2 TYPE Activity
+2 DATE 1412
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMC @F69@
+0 @P248@ INDI 
+1 BIRT 
+2 DATE a. 1412
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 DEAT 
+2 DATE p. 1421
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 NAME Urbano /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 EVEN Battilana indicates that Urbano was active circa 1421, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1421
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 EVEN Battilana indicates that Urbano was active circa 1412, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1412
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMC @F69@
+0 @P249@ INDI 
+1 DEAT Terminus post quem of death of 1406 based on latest documented activity.
+2 DATE p. 1406
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 NAME Oliverio /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 EVEN Battilana indicates that Oliviero was active circa 1406, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1406
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMC @F70@
+0 @P250@ INDI 
+1 DEAT Since Luigia Doria is documented as a widow in 1412, we can assumed she died during or after this year.
+2 DATE p. 1412
+1 NAME Luigia /Doria/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMC @F172@
+1 FAMS @F69@
+0 @P251@ INDI 
+1 NAME Caterina /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMC @F173@
+1 FAMS @F70@
+0 @P252@ INDI 
+1 NAME Carlotto /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMS @F173@
+0 @P253@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 NAME Lodisio /Doria/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMS @F172@
+0 @P254@ INDI 
+1 DEAT Terminus ante quem of death of 1443 based on his wife Francisca being documented as a widow that same year.
+2 DATE a. 1443
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 NAME Luciano /Spinola/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMC @F174@
+1 FAMS @F71@
+0 @P255@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 NAME Cipriano /Spinola/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMS @F174@
+0 @P256@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 NAME Percivale /Vivaldi/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMC @F175@
+1 FAMS @F72@
+0 @P257@ INDI 
+1 NAME Prospero /Vivaldi/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMS @F175@
+0 @P258@ INDI 
+1 DEAT His wife is listed as a widow in 1427, so we can assume this date as a terminus ante quem for his death.
+2 DATE a. 1427
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 NAME Napoleone /Doria/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMC @F176@
+1 FAMS @F73@
+0 @P259@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 NAME Ansaldo /Doria/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMS @F176@
+0 @P260@ INDI 
+1 NAME Benedetto /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMC @F177@
+1 FAMS @F74@
+0 @P261@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 8, 14
+1 NAME Tobia /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 8, 14
+1 FAMC @F178@
+1 FAMS @F177@
+0 @P262@ INDI 
+1 NAME Benedetto /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plates 14, 32
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plates 14, 32
+1 FAMS @F178@
+0 @P263@ INDI 
+1 NAME Tobia /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plates 14, 32
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plates 14, 32
+1 FAMC @F177@
+1 FAMS @F92@
+0 @P264@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 NAME Angelo /de Mari/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMS @F141@
+0 @P265@ INDI 
+1 NAME Marcellino /Grillo/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMS @F142@
+0 @P266@ INDI 
+1 DEAT Terminus post quem of death of 1362 based on latest documented activity.
+2 DATE p. 1362
+1 NAME Maria /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 EVEN Battilana indicates that Maria was active circa 1362, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1362
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMC @F76@
+1 FAMS @F77@
+0 @P267@ INDI 
+1 NAME Pietrino /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMS @F111@
+0 @P268@ INDI 
+1 NAME Niccolò /Fieschi/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 ALIA Nicolò Fiesco
+1 ALIA Niccolò Fiesco
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMC @F179@
+1 FAMS @F77@
+0 @P269@ INDI 
+1 NAME Ettore /Fieschi/
+2 SOUR 
+3 PAGE Lomellini, plate 31
+1 SEX M
+2 SOUR 
+3 PAGE Lomellini, plate 31
+1 ALIA Ettore Fiesco
+2 SOUR 
+3 PAGE Lomellini, plate 31
+1 FAMS @F179@
+0 @P270@ INDI 
+1 DEAT Terminus post quem of death of 1455 based on latest documented activity.
+2 DATE p. 1455
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 BIRT Terminus ante quem of birth of 1437 based on earliest documented activity.
+2 DATE a. 1437
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 NAME Bianca /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 EVEN Battilana indicates that Bianca was active circa 1455, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1455
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 EVEN Battilana indicates that Bianca was active circa 1453, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1453
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 EVEN Battilana indicates that Bianca was active circa 1437, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1437
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMC @F78@
+0 @P271@ INDI 
+1 DEAT Terminus post quem of death of 1467 based on latest documented activity.
+2 DATE p. 1467
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 BIRT Terminus ante quem of birth of 1437 based on earliest documented activity.
+2 DATE a. 1437
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 NAME Giacoba /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 EVEN Battilana indicates that Giacoba was active circa 1467, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1467
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 EVEN Battilana indicates that Giacoba was active circa 1454, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1454
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 EVEN Battilana indicates that Giacoba was active circa 1453, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1453
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 EVEN Battilana indicates that Giacoba was active circa 1437, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1437
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMC @F78@
+1 FAMS @F85@
+0 @P272@ INDI 
+1 DEAT Battilana indicates that Argenta was listed as a widow circa 1435, but provides no citation.
+2 DATE p. 1435
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 NAME Argenta /Vivaldi/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMC @F180@
+1 FAMS @F78@
+0 @P273@ INDI 
+1 NAME Filippo /de Marini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMC @F181@
+1 FAMS @F80@
+0 @P274@ INDI 
+1 NAME Filippo /Vivaldi/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMC @F182@
+1 FAMS @F81@
+0 @P275@ INDI 
+1 DEAT We know that he died before 1450 as is wife is indicated as a widow at that date.
+2 DATE a. 1450
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 NAME Gaspare /Vivaldi/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMC @F183@
+1 FAMS @F82@
+0 @P276@ INDI 
+1 NAME Paolo /Vivaldi/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMS @F180@
+0 @P277@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 NAME Filippo /de Marini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMS @F181@
+0 @P278@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 NAME Filippo /Vivaldi/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMS @F182@
+0 @P279@ INDI 
+1 NAME Francesco /Vivaldi/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMS @F183@
+0 @P280@ INDI 
+1 DEAT Terminus post quem of death of 1447 based on latest documented activity.
+2 DATE p. 1447
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 NAME Imperiale /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 EVEN Battilana indicates that Imperiale was active circa 1447, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1447
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMC @F83@
+0 @P281@ INDI 
+1 DEAT Terminus post quem of death of 1447 based on latest documented activity.
+2 DATE p. 1447
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 NAME Maria /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 EVEN Battilana indicates that Maria was active circa 1447, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1447
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMC @F83@
+1 FAMS @F86@
+0 @P282@ INDI 
+1 DEAT Terminus post quem of death of 1447 based on latest documented activity.
+2 DATE p. 1447
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 NAME Oliverio /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 EVEN Battilana indicates that Olivero was active circa 1447, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1447
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMC @F83@
+0 @P283@ INDI 
+1 DEAT Terminus post quem of death of 1447 based on latest documented activity.
+2 DATE p. 1447
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 NAME Raffaele /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 EVEN Battilana indicates that Raffaele was active circa 1447, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1447
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMC @F83@
+0 @P284@ INDI 
+1 NAME Franca /Lercari/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMC @F184@
+1 FAMS @F83@
+0 @P285@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 NAME Tommaso /Lercari/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMS @F184@
+0 @P286@ INDI 
+1 DEAT Terminus post quem of death of 1461 based on latest documented activity.
+2 DATE p. 1461
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 NAME Filippo /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 EVEN Battilana indicates that Filippo was active circa 1461, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1461
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMC @F84@
+0 @P287@ INDI 
+1 DEAT Terminus post quem of death of 1461 based on latest documented activity.
+2 DATE p. 1461
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 NAME Pellegra /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 EVEN Battilana indicates that Pellegra was active circa 1461, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1461
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMC @F84@
+0 @P288@ INDI 
+1 DEAT Terminus post quem of death of 1461 based on latest documented activity.
+2 DATE p. 1461
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 NAME Luigia /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 EVEN Battilana indicates that Luigia was active circa 1461, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1461
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMC @F84@
+0 @P289@ INDI 
+1 DEAT Terminus post quem of death of 1461 based on latest documented activity.
+2 DATE p. 1461
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 NAME Margaritta /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 EVEN Battilana indicates that Margaritta was active circa 1461, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1461
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMC @F84@
+1 FAMS @F87@
+0 @P290@ INDI 
+1 DEAT Terminus post quem of death of 1450 based on latest documented activity.
+2 DATE p. 1450
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 NAME Bartolommea /Oliva/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 EVEN Battilana indicates that Bartolommea was active circa 1450, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1450
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMC @F185@
+1 FAMS @F84@
+0 @P291@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 NAME Ciriaco /Oliva/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMS @F185@
+0 @P292@ INDI 
+1 SEX M
+2 SOUR 
+3 PAGE Lomellini, plate 31
+1 NAME Cosmo /Lomellini/
+2 SOUR 
+3 PAGE Lomellini, plate 31
+1 FAMC @F186@
+1 FAMS @F85@
+0 @P293@ INDI 
+1 NAME Bartolommeo /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMS @F186@
+0 @P294@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 NAME Paolo /Spinola/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMC @F187@
+1 FAMS @F86@
+0 @P295@ INDI 
+1 NAME Opicino /Spinola/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMS @F187@
+0 @P296@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 NAME Giovanni Antonio /Spinola/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMC @F188@
+1 FAMS @F87@
+0 @P297@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 NAME Paolo /Spinola/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 31
+1 FAMS @F188@
+0 @P298@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 NAME Domenico /Lercari/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMS @F171@
+0 @P299@ INDI 
+1 DEAT Terminus post quem of death of 1438 based on latest documented activity.
+2 DATE p. 1438
+1 NAME Tommaso /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 EVEN Battilana indicates that Tommaso was active in 1438, but provides no source nor indicates the type of activity.
+2 TYPE Activity
+2 DATE 1438
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMC @F88@
+0 @P300@ INDI 
+1 BIRT Terminus ante quem of birth of 1438 based on the terminus ante quem of her father's death being 1438.
+2 DATE a. 1438
+1 DEAT Terminus post quem of death of 1496 based on latest documented activity.
+2 DATE p. 1496
+1 NAME Bartolommea /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 ORDN Battilana notes that Bartolommea became a nun, but does not provide a date. We will use a terminus post quem of 1438 based on birth until a clearer date is obtained.
+2 DATE p. 1438
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 EVEN Battilana indicates that Bartolommea was active in 1496, but provides no source nor indicates the type of activity.
+2 TYPE Activity
+2 DATE 1496
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 EVEN Battilana indicates that Bartolommeo was active in 1460, but provides no source nor indicates the type of activity.
+2 TYPE Activity
+2 DATE 1460
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMC @F88@
+0 @P301@ INDI 
+1 BIRT Terminus ante quem of birth of 1438 based on the terminus ante quem of her father's death being 1438.
+2 DATE a. 1438
+1 DEAT Terminus post quem of death of 1496 based on latest documented activity.
+2 DATE p. 1496
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 NAME Battina /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 EVEN Battilana indicates that Battina was active in 1496, but provides no source nor indicates the type of activity.
+2 TYPE Activity
+2 DATE 1496
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 EVEN Battilana indicates that Battina was active in 1460, but provides no source nor indicates the type of activity.
+2 TYPE Activity
+2 DATE 1460
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMC @F88@
+0 @P302@ INDI 
+1 BIRT Terminus ante quem of birth of 1438 based on earliest documented activity.
+2 DATE a. 1438
+1 DEAT Terminus post quem of death of 1496 based on latest documented activity.
+2 DATE p. 1496
+1 NAME Caterina /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 EVEN Battilana indicates that Caterina was active in 1496, but provides no source nor indicates the type of activity.
+2 TYPE Activity
+2 DATE 1496
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 EVEN Battilana indicates that Caterina was active in 1465, but provides no source nor indicates the type of activity.
+2 TYPE Activity
+2 DATE 1465
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 EVEN Battilana indicates that Caterina was active in 1438, but provides no source nor indicates the type of activity.
+2 TYPE Activity
+2 DATE 1438
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMC @F88@
+1 FAMS @F94@
+1 FAMS @F95@
+0 @P303@ INDI 
+1 DEAT Terminus post quem of death of 1438 based on latest documented activity.
+2 DATE p. 1438
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 NAME Niccolò /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 EVEN Battilana indicates that Niccolò was active in 1438, but provides no source nor indicates the type of activity.
+2 TYPE Activity
+2 DATE 1438
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMC @F88@
+1 FAMS @F194@
+0 @P304@ INDI 
+1 DEAT Terminus post quem of death of 1438 based on latest documented activity.
+2 DATE p. 1438
+1 NAME Giovanni Battista /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 EVEN Battilana indicates that Giovanni Battista was active in 1438, but provides no source nor indicates the type of activity.
+2 TYPE Activity
+2 DATE 1438
+1 FAMC @F88@
+0 @P305@ INDI 
+1 BIRT Terminus ante quem of birth of 1415 based on consideration of her being a widow in 1437 and already given birth to six children.
+2 DATE a. 1415
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 DEAT Terminus post quem of death of 1460 based on latest documented activity.
+2 DATE p. 1460
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 NAME Violante /Vivaldi/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 EVEN Violante is documented as a widow in 1437.
+2 TYPE Widowed
+2 DATE 1437
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 EVEN Battilana indicates that Violante was active circa 1460, but provides no citation or indication of the type of activity.
+2 TYPE Activity
+2 DATE 1460
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMC @F189@
+1 FAMS @F88@
+0 @P306@ INDI 
+1 NAME Barnaba /Cattaneo/ de Volta
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMC @F190@
+1 FAMS @F91@
+0 @P307@ INDI 
+1 DEAT Battilana indicates that Niccolò died in infancy, so we can place his year of death equal to his year of birth. Note that Domenico Lomellini had another son named Niccolò with his second wife.
+2 DATE a. 1444
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 BIRT 
+2 DATE a. 1444
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 NAME Niccolò /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 EVEN Battilana indicates that Niccolò was active in 1444, but provides no source nor indicates the type of activity.
+2 TYPE Activity
+2 DATE 1444
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMC @F90@
+0 @P308@ INDI 
+1 DEAT Terminus post quem of death of 1505 based on latest documented activity. Battilana indicates that his second wife Francisca was documented as a widow in 1505, which provides a terminus ante quem for his death equal to the post quem, so we can assert 1505.
+2 DATE 1505
+1 BIRT Terminus ante quem of birth of 1456 based on earliest documented activity.
+2 DATE a. 1456
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 NAME Niccolò /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 EVEN Battilana indicates that Niccolò was active in 1505, but provides no source nor indicates the type of activity.
+2 TYPE Activity
+2 DATE 1505
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 EVEN Battilana indicates that Niccolò was active in 1484, but provides no source nor indicates the type of activity.
+2 TYPE Activity
+2 DATE 1484
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 EVEN Battilana indicates that Niccolò was active in 1456, but provides no source nor indicates the type of activity.
+2 TYPE Activity
+2 DATE 1456
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMC @F89@
+1 FAMS @F97@
+1 FAMS @F98@
+0 @P309@ INDI 
+1 DEAT Terminus post quem of death of 1459 based on latest documented activity.
+2 DATE p. 1452
+1 NAME Pellegra /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 EVEN Battilana indicates that Pellegra was active in 1452, but provides no source nor indicates the type of activity.
+2 TYPE Activity
+2 DATE 1452
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMC @F90@
+0 @P310@ INDI 
+1 BIRT Terminus ante quem of birth of 1452 based on earliest documented activity.
+2 DATE a. 1452
+1 DEAT Battilana indicates that Luchina was documented as a widow in 1510, which provides a terminus post quem for her death.
+2 DATE p. 1510
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 NAME Luchina /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 EVEN Battilana indicates that Luchina was active in 1510, but provides no source nor indicates the type of activity.
+2 TYPE Activity
+2 DATE 1510
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 EVEN Battilana indicates that Luchina was active in 1452, but provides no source nor indicates the type of activity.
+2 TYPE Activity
+2 DATE 1452
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMC @F89@
+1 FAMS @F100@
+0 @P311@ INDI 
+1 BIRT Terminus ante quem of birth of 1429 based on earliest documented activity of her children in 1444.
+2 DATE a. 1429
+1 DEAT Terminus post quem of death of 1471 based on latest documented activity.
+2 DATE p. 1471
+1 NAME Orietta /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plates 13, 32
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plates 13, 32
+1 EVEN Battilana indicates that Orietta was active in 1471, but provides no source nor indicates the type of activity.
+2 TYPE Activity
+2 DATE 1471
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plates 13, 32
+1 EVEN Battilana indicates that Orietta was active in 1452, but provides no source nor indicates the type of activity.
+2 TYPE Activity
+2 DATE 1452
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plates 13, 32
+1 EVEN Battilana indicates that Orietta was active in 1444, but provides no source nor indicates the type of activity.
+2 TYPE Activity
+2 DATE 1444
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plates 13, 32
+1 FAMC @F90@
+1 FAMS @F99@
+0 @P312@ INDI 
+1 BIRT Terminus ante quem of birth of 1452 based on earliest documented activity.
+2 DATE a. 1452
+1 DEAT Terminus post quem of death of 1458 based on latest documented activity.
+2 DATE p. 1458
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 NAME Luchetto /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 EVEN Battilana indicates that Luchetto was active in 1458, but provides no source nor indicates the type of activity.
+2 TYPE Activity
+2 DATE 1458
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 EVEN Battilana indicates that Luchetto was active in 1452, but provides no source nor indicates the type of activity.
+2 TYPE Activity
+2 DATE 1452
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMC @F89@
+0 @P313@ INDI 
+1 DEAT Terminus post quem of death of 1458 based on latest documented activity.
+2 DATE p. 1458
+1 BIRT Terminus ante quem of birth of 1452 based on earliest documented activity.
+2 DATE a. 1452
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 NAME Francesco /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 EVEN Battilana indicates that Francesco was active in 1458, but provides no source nor indicates the type of activity.
+2 TYPE Activity
+2 DATE 1458
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 EVEN Battilana indicates that Francesco was active in 1452, but provides no source nor indicates the type of activity.
+2 TYPE Activity
+2 DATE 1452
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMC @F89@
+0 @P314@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 BIRT 
+2 DATE a. 1452
+1 NAME Agostino /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 EVEN Battilana indicates that Agostino was active in 1458, but provides no source nor indicates the type of activity.
+2 TYPE Activity
+2 DATE 1468
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 EVEN Battilana indicates that Agostino was active in 1452, but provides no source nor indicates the type of activity.
+2 TYPE Activity
+2 DATE 1452
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMC @F89@
+1 FAMS @F96@
+0 @P315@ INDI 
+1 DEAT Terminus post quem of death of 1458 based on latest documented activity.
+2 DATE p. 1458
+1 BIRT Terminus ante quem of birth of 1437 based upon the terminus ante quem of children and an earliest possible age of marriage of 15.
+2 DATE a. 1437
+1 NAME Battina /Vivaldi/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 EVEN Battilana indicates that Battina was active in 1458, but provides no source nor indicates the type of activity.
+2 TYPE Activity
+2 DATE 1458
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMC @F191@
+1 FAMS @F89@
+0 @P316@ INDI 
+1 BIRT Terminus ante quem of birth estimated at 1429 due to the lowest terminus ante quem of children being 1444 and the assumption that she was at least 15 at the time of marriage.
+2 DATE a. 1429
+1 DEAT Terminus post quem of death of 1444 based on latest documented activity.
+2 DATE p. 1444
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 NAME Isolta /Lecavello/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 EVEN Battilana indicates that Isolta was active in 1444, but provides no source nor indicates the type of activity.
+2 TYPE Activity
+2 DATE 1444
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMC @F192@
+1 FAMS @F90@
+0 @P317@ INDI 
+1 DEAT Terminus ante quem of death of 1422 based the documentation of his wife Sobrana Lomellini as a widow that same year.
+2 DATE a. 1422
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 NAME Manfredo /di Negro/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMC @F193@
+1 FAMS @F93@
+0 @P318@ INDI 
+1 NAME Niccolò /Vivaldi/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMS @F189@
+0 @P319@ INDI 
+1 NAME Pietro /Cattaneo/ de Volta
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMS @F190@
+0 @P320@ INDI 
+1 NAME Raffo /Lecavello/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMS @F192@
+0 @P321@ INDI 
+1 NAME Luca /Vivaldi/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMS @F191@
+0 @P322@ INDI 
+1 NAME Leonardo /di Negro/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMS @F193@
+0 @P323@ INDI 
+1 DEAT Terminus post quem of death of 1467 based on latest documented activity.
+2 DATE p. 1467
+1 BIRT Terminus ante quem of birth of 1458 based on earliest documented activity.
+2 DATE a. 1458
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 NAME Lodisio /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 EVEN Battilana indicates that Domenico was active in 1467, but provides no source nor indicates the type of activity.
+2 TYPE Activity
+2 DATE 1467
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 EVEN Battilana indicates that Domenico was active in 1458, but provides no source nor indicates the type of activity.
+2 TYPE Activity
+2 DATE 1458
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMC @F194@
+1 FAMS @F101@
+0 @P324@ INDI 
+1 DEAT Terminus ante quem of death of 1483 since his wife Caterina was documented as a widow that same year.
+2 DATE a. 1483
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 NAME Bonifacio /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMC @F195@
+1 FAMS @F95@
+0 @P325@ INDI 
+1 NAME Galeotto /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMC @F196@
+1 FAMS @F94@
+0 @P326@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 NAME Giano /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMS @F196@
+0 @P327@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 NAME Antoniotto /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMS @F195@
+0 @P328@ INDI 
+1 DEAT Meliaduce died between 1515-1520 based on latest documented activity in 1515 and his wife Andreola being documented as a widow in 1520.
+2 DATE a. 1520
+1 BIRT Terminus ante quem of birth based on earliest documented activity.
+2 DATE a. 1503
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 NAME Meliaduce /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 EVEN Battilana indicates that Meliaduce was active in 1515, but provides no source nor indicates the type of activity.
+2 TYPE Activity
+2 DATE 1515
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 EVEN Battilana indicates that Meliaduce was active in 1513, but provides no source nor indicates the type of activity.
+2 TYPE Activity
+2 DATE 1513
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 EVEN Battilana indicates that Meliaduce was active in 1503, but provides no source nor indicates the type of activity.
+2 TYPE Activity
+2 DATE 1503
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMC @F96@
+1 FAMS @F104@
+0 @P329@ INDI 
+1 DEAT Battilana indicates that his second wife Pellina was documented as a widow in 1572, which provides a terminus ante quem for his death.
+2 DATE a. 1572
+1 BIRT Terminus ante quem of birth based on earliest documented activity.
+2 DATE a. 1503
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 NAME Domenico /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 EVEN Battilana indicates that Domenico was active in 1522, but provides no source nor indicates the type of activity.
+2 TYPE Activity
+2 DATE 1522
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 EVEN Battilana indicates that Domenico was active in 1513, but provides no source nor indicates the type of activity.
+2 TYPE Activity
+2 DATE 1513
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 EVEN Battilana indicates that Domenico was active in 1503, but provides no source nor indicates the type of activity.
+2 TYPE Activity
+2 DATE 1503
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMC @F96@
+1 FAMS @F102@
+1 FAMS @F103@
+0 @P330@ INDI 
+1 BIRT Based on the terminus ante quem of the birth of her children, we can safely assume a terminus ante quem of 1489 for the birth of Maria.
+2 DATE a. 1489
+1 DEAT Battilana indicates that Maria was documented as a widow in 1520, which provides a terminus post quem for her death.
+2 DATE p. 1520
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 NAME Maria /Salvago/ Nepitelli
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMC @F197@
+1 FAMS @F96@
+0 @P331@ INDI 
+1 DEAT Battilana indicates that his wife Orietta was documented as a widow in 1471, which provides a terminus ante quem for his death.
+2 DATE a. 1471
+1 BIRT Terminus ante quem of birth based on the likelihood that he was the same age or older than his wife.
+2 DATE a. 1429
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plates 12, 13, 32
+1 NAME Girolamo /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plates 12, 13, 32
+1 FAMC @F198@
+1 FAMS @F99@
+0 @P332@ INDI 
+1 DEAT Battilana indicates that his wife Luchina was documented as a widow in 1510, which provides a terminus ante quem for his death.
+2 DATE a. 1510
+1 NAME Morvello /Cicala/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMC @F199@
+1 FAMS @F100@
+0 @P333@ INDI 
+1 BIRT Terminus ante quem for birth based upon the terminus ante quem for the death of her father in 1505.
+2 DATE a. 1505
+1 DEAT Terminus post quem of death based on latest documented activity.
+2 DATE p. 1545
+1 NAME Ginevra /Lomellini/
+1 SEX F
+1 EVEN Battilana indicates that Ginevra was active in 1545, but provides no source nor indicates the type of activity.
+2 TYPE Activity
+2 DATE 1545
+1 EVEN Battilana indicates that Ginevra was active in 1515, but provides no source nor indicates the type of activity.
+2 TYPE Activity
+2 DATE 1515
+1 FAMC @F97@
+0 @P334@ INDI 
+1 BIRT Terminus ante quem for birth based upon the terminus ante quem for the death of her father in 1505.
+2 DATE a. 1505
+1 DEAT 
+2 DATE p. 1515
+1 NAME Pellegra /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 EVEN Battilana indicates that Pellegra was active in 1515, but provides no source nor indicates the type of activity.
+2 TYPE Activity
+2 DATE 1515
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMC @F97@
+0 @P335@ INDI 
+1 BIRT Terminus ante quem for birth based upon the terminus ante quem for the death of his father in 1505.
+2 DATE a. 1505
+1 DEAT Terminus post quem of death based on latest documented activity.
+2 DATE p. 1548
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 NAME Girolamo /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 EVEN Battilana indicates that Girolamo was active in 1548, but provides no source nor indicates the type of activity.
+2 TYPE Activity
+2 DATE 1548
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 EVEN Battilana indicates that Girolamo was active in 1528, but provides no source nor indicates the type of activity.
+2 TYPE Activity
+2 DATE 1528
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 EVEN Battilana indicates that Girolamo was active in 1515, but provides no source nor indicates the type of activity.
+2 TYPE Activity
+2 DATE 1515
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMC @F97@
+0 @P336@ INDI 
+1 DEAT Battilana indicates that Gironima was documented as a widow in 1510, which provides a terminus post quem for her death.
+2 DATE p. 1510
+1 BIRT Terminus ante quem of birth based on Gironima being documented as a widow in 1510.
+2 DATE a. 1495
+1 NAME Gironima /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 EVEN Battilana indicates that Gironima was active in 1510, but provides no source nor indicates the type of activity.
+2 TYPE Activity
+2 DATE 1510
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 EVEN Battilana indicates that Gironima was active in 1505, but provides no source nor indicates the type of activity.
+2 TYPE Activity
+2 DATE 1505
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMC @F97@
+1 FAMS @F106@
+1 FAMS @F107@
+0 @P337@ INDI 
+1 DEAT Terminus post quem of death based on latest documented activity.
+2 DATE p. 1501
+1 BIRT Terminus ante quem of birth based on earliest documented activity.
+2 DATE a. 1494
+1 NAME Teodora /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 EVEN Battilana indicates that Teodora was active in 1501, but provides no source nor indicates the type of activity.
+2 TYPE Activity
+2 DATE 1501
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 EVEN Battilana indicates that Teodora was active in 1494, but provides no source nor indicates the type of activity.
+2 TYPE Activity
+2 DATE 1494
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMC @F97@
+1 FAMS @F105@
+0 @P338@ INDI 
+1 DEAT Terminus post quem of death of 1508 based on latest documented activity.
+2 DATE p. 1508
+1 NAME Francisca /Doria/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMC @F200@
+1 FAMS @F97@
+0 @P339@ INDI 
+1 DEAT Battilana indicates that Selvagia died in 1481. She did not have any children.
+2 DATE 1481
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 NAME Selvagia /Lercari/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 EVEN Battilana indicates that Domenico was active in 1412, but provides no source nor indicates the type of activity. It was likely her marriage to Niccolò Lomellini.
+2 TYPE Activity
+2 DATE 1476
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMC @F201@
+1 FAMS @F98@
+0 @P340@ INDI 
+1 NAME Acellino /Salvago/ Nepitelli
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMS @F197@
+0 @P341@ INDI 
+1 BIRT 
+2 DATE a. 1391
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plates 12, 13, 22
+1 DEAT 
+2 DATE p. 1441
+1 NAME Greogrio /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plates 12, 13, 22
+1 FAMS @F198@
+0 @P342@ INDI 
+1 NAME Tommaso /Cicala/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMS @F199@
+0 @P343@ INDI 
+1 NAME Gregorio /Lercari/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMS @F201@
+0 @P344@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 NAME Giacomo /Doria/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMS @F200@
+0 @P345@ INDI 
+1 DEAT Terminus post quem of death based on latest documented activity.
+2 DATE p. 1476
+1 NAME Girolamo /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 EVEN Battilana indicates that Girolamo was active in 1476, but provides no source nor indicates the type of activity.
+2 TYPE Activity
+2 DATE 1476
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMC @F101@
+0 @P346@ INDI 
+1 DEAT Terminus post quem of death based on latest documented activity.
+2 DATE p. 1476
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 NAME Tobietta /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 EVEN Battilana indicates that Tobietta was active in 1476, but provides no source nor indicates the type of activity.
+2 TYPE Activity
+2 DATE 1476
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMC @F101@
+0 @P347@ INDI 
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 NAME Susanna /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMC @F202@
+1 FAMS @F101@
+0 @P348@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 NAME Girolamo /Lomellini/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMS @F202@
+0 @P349@ INDI 
+1 DEAT 
+2 DATE p. 1557
+1 NAME Maria /Lomellini/
+1 SEX F
+1 FAMC @F103@
+0 @P350@ INDI 
+1 BIRT 
+2 DATE a. 1557
+1 SEX F
+1 DEAT 
+2 DATE p. 1572
+1 NAME Minetta /Lomellini/
+1 FAMC @F102@
+0 @P351@ INDI 
+1 SEX F
+1 DEAT 
+2 DATE p. 1572
+1 NAME Nicoletta /Lomellini/
+1 FAMC @F102@
+0 @P352@ INDI 
+1 DEAT 
+2 DATE p. 1572
+1 NAME Ottaviano /Lomellini/
+1 SEX M
+1 FAMC @F102@
+0 @P353@ INDI 
+1 BIRT Terminus ante quem of birth based on earliest documented activity. I am assuming, based on his activity, that his mother was Pellina Centurione, not Gironima Fieschi.
+2 DATE a. 1557
+1 DEAT 
+2 DATE p. 1579
+1 NAME Giovanni Battista /Lomellini/
+1 SEX M
+1 FAMC @F102@
+0 @P354@ INDI 
+1 DEAT 
+2 DATE p. 1524
+1 BIRT 
+2 DATE a. 1522
+1 NAME Francisca /Lomellini/
+1 SEX F
+1 FAMC @F103@
+0 @P355@ INDI 
+1 BIRT 
+2 DATE a. 1522
+1 NAME Chiara /Lomellini/
+1 SEX F
+1 DEAT 
+2 DATE p. 1524
+1 FAMC @F103@
+0 @P356@ INDI 
+1 BIRT Terminus ante quem of birth based on earliest documented activity.
+2 DATE a. 1524
+1 DEAT Battilana indicates that Pellina was documented as a widow in 1572, which provides a terminus post quem for her death.
+2 DATE p. 1572
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 NAME Pellina /Centurione/ Becchignone
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 EVEN Battilana indicates that Pellina was active in 1524, but provides no source nor indicates the type of activity (it was probably related to her marriage to Domenico Lomellini).
+2 TYPE Activity
+2 DATE 1524
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMC @F203@
+1 FAMS @F102@
+0 @P357@ INDI 
+1 NAME Gironima /Fieschi/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 DEAT Terminus post quem of death based on latest documented activity.
+2 DATE p. 1516
+1 EVEN Battilana indicates that Geronima was active in 1516, but provides no source nor indicates the type of activity (it is likely related to her marriage to Domenico Lomellini).
+2 TYPE Activity
+2 DATE 1516
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMC @F204@
+1 FAMS @F103@
+0 @P358@ INDI 
+1 DEAT Battilana indicates that Andreola was documented as a widow in 1520, which provides a terminus post quem for her death.
+2 DATE p. 1520
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 SEX F
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 NAME Andreola /Spinola/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMC @F205@
+1 FAMS @F104@
+0 @P359@ INDI 
+1 NAME Ettore /Fieschi/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMS @F204@
+0 @P360@ INDI 
+1 NAME Teramo /Centurione/ Becchignone
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMS @F203@
+0 @P361@ INDI 
+1 NAME Gianotto /Spinola/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMS @F205@
+0 @P362@ INDI 
+1 NAME Alessandro /Lercari/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMC @F206@
+1 FAMS @F105@
+0 @P363@ INDI 
+1 DEAT Battilana indicates that his wife Gironima was documented as a widow in 1510, which provides a terminus ante quem for his death.
+2 DATE a. 1510
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 NAME Lorenzo /Cattaneo/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMC @F207@
+1 FAMS @F107@
+0 @P364@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 NAME Bernardo /Spinola/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMC @F208@
+1 FAMS @F106@
+0 @P365@ INDI 
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 NAME Luciano /Lercari/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMS @F206@
+0 @P366@ INDI 
+1 NAME Andrea /Spinola/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMS @F208@
+0 @P367@ INDI 
+1 NAME Cristoforo /Cattaneo/
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 SEX M
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 32
+1 FAMS @F207@
+0 @F1@ FAM 
+1 HUSB @P1@
+1 WIFE @P2@
+1 CHIL @P3@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P4@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P7@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P8@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P9@
+2 _FREL Natural
+2 _MREL Natural
+0 @F2@ FAM 
+1 HUSB @P1@
+1 WIFE @P5@
+1 MARR 
+2 DATE 1431
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 39
+0 @F3@ FAM 
+1 HUSB @P1@
+1 WIFE @P6@
+0 @F4@ FAM 
+1 HUSB @P11@
+1 WIFE @P10@
+1 CHIL @P1@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P12@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P13@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P14@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P15@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P16@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P17@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P18@
+2 _FREL Natural
+2 _MREL Natural
+0 @F5@ FAM 
+1 HUSB @P19@
+1 WIFE @P20@
+1 CHIL @P35@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P11@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P24@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P25@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P26@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P27@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P29@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P34@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P30@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P37@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P33@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P23@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P36@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P31@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P28@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P38@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P32@
+2 _FREL Natural
+2 _MREL Natural
+0 @F6@ FAM 
+1 HUSB @P3@
+1 WIFE @P46@
+1 CHIL @P40@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P41@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P45@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P42@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P43@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P44@
+2 _FREL Natural
+2 _MREL Natural
+0 @F7@ FAM 
+1 HUSB @P14@
+1 WIFE @P53@
+1 CHIL @P55@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P54@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P56@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P59@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P58@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P57@
+2 _FREL Natural
+2 _MREL Natural
+0 @F8@ FAM 
+1 HUSB @P14@
+1 WIFE @P60@
+0 @F9@ FAM 
+1 HUSB @P64@
+1 WIFE @P5@
+0 @F10@ FAM 
+1 HUSB @P47@
+1 WIFE @P18@
+0 @F11@ FAM 
+1 HUSB @P50@
+1 WIFE @P17@
+0 @F12@ FAM 
+1 HUSB @P49@
+1 WIFE @P17@
+0 @F13@ FAM 
+1 HUSB @P48@
+1 WIFE @P17@
+0 @F14@ FAM 
+1 HUSB @P51@
+1 WIFE @P16@
+0 @F15@ FAM 
+1 HUSB @P52@
+1 WIFE @P15@
+0 @F16@ FAM 
+1 HUSB @P61@
+1 WIFE @P13@
+0 @F17@ FAM 
+1 HUSB @P62@
+1 WIFE @P9@
+0 @F18@ FAM 
+1 HUSB @P70@
+1 WIFE @P69@
+1 CHIL @P53@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P62@
+2 _FREL Natural
+2 _MREL Natural
+0 @F19@ FAM 
+1 HUSB @P63@
+1 WIFE @P8@
+0 @F20@ FAM 
+1 HUSB @P54@
+1 WIFE @P83@
+1 CHIL @P74@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P75@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P76@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P77@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P78@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P79@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P80@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P81@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P82@
+2 _FREL Natural
+2 _MREL Natural
+0 @F21@ FAM 
+1 HUSB @P84@
+1 WIFE @P59@
+0 @F22@ FAM 
+1 HUSB @P86@
+1 WIFE @P58@
+0 @F23@ FAM 
+1 HUSB @P55@
+1 WIFE @P95@
+1 CHIL @P89@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P90@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P91@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P92@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P93@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P94@
+2 _FREL Natural
+2 _MREL Natural
+0 @F24@ FAM 
+1 HUSB @P98@
+1 WIFE @P57@
+0 @F25@ FAM 
+1 HUSB @P97@
+1 WIFE @P57@
+0 @F26@ FAM 
+1 HUSB @P100@
+1 WIFE @P56@
+0 @F27@ FAM 
+1 HUSB @P102@
+1 WIFE @P45@
+0 @F28@ FAM 
+1 HUSB @P103@
+1 WIFE @P44@
+0 @F29@ FAM 
+1 HUSB @P104@
+1 WIFE @P43@
+0 @F30@ FAM 
+1 HUSB @P105@
+1 WIFE @P42@
+0 @F31@ FAM 
+1 HUSB @P106@
+1 WIFE @P41@
+0 @F32@ FAM 
+1 HUSB @P107@
+1 WIFE @P40@
+0 @F33@ FAM 
+1 HUSB @P94@
+1 WIFE @P123@
+1 CHIL @P116@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P117@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P118@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P119@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P120@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P121@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P122@
+2 _FREL Natural
+2 _MREL Natural
+0 @F34@ FAM 
+1 HUSB @P93@
+1 WIFE @P129@
+1 CHIL @P124@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P125@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P126@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 1469
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plates 39, 40
+0 @F35@ FAM 
+1 HUSB @P93@
+1 WIFE @P130@
+1 CHIL @P127@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P128@
+2 _FREL Natural
+2 _MREL Natural
+0 @F36@ FAM 
+1 HUSB @P92@
+1 WIFE @P131@
+0 @F37@ FAM 
+1 HUSB @P89@
+1 WIFE @P138@
+1 CHIL @P134@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P135@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P136@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P137@
+2 _FREL Natural
+2 _MREL Natural
+0 @F38@ FAM 
+1 HUSB @P132@
+1 WIFE @P91@
+0 @F39@ FAM 
+1 HUSB @P133@
+1 WIFE @P90@
+0 @F40@ FAM 
+1 HUSB @P38@
+1 WIFE @P152@
+1 CHIL @P147@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P149@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P150@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P151@
+2 _FREL Natural
+2 _MREL Natural
+0 @F41@ FAM 
+1 HUSB @P119@
+1 WIFE @P156@
+0 @F42@ FAM 
+1 HUSB @P158@
+1 WIFE @P116@
+0 @F43@ FAM 
+1 HUSB @P135@
+1 WIFE @P164@
+1 CHIL @P163@
+2 _FREL Natural
+2 _MREL Natural
+0 @F44@ FAM 
+1 HUSB @P161@
+1 WIFE @P137@
+0 @F45@ FAM 
+1 HUSB @P160@
+1 WIFE @P137@
+0 @F46@ FAM 
+1 HUSB @P162@
+1 WIFE @P136@
+0 @F47@ FAM 
+1 HUSB @P165@
+1 WIFE @P134@
+0 @F48@ FAM 
+1 HUSB @P170@
+1 WIFE @P164@
+0 @F49@ FAM 
+1 HUSB @P80@
+1 WIFE @P178@
+0 @F50@ FAM 
+1 HUSB @P80@
+1 WIFE @P179@
+1 CHIL @P176@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P177@
+2 _FREL Natural
+2 _MREL Natural
+0 @F51@ FAM 
+1 HUSB @P78@
+1 WIFE @P181@
+1 CHIL @P180@
+2 _FREL Natural
+2 _MREL Natural
+0 @F52@ FAM 
+1 HUSB @P182@
+1 WIFE @P74@
+0 @F53@ FAM 
+1 HUSB @P126@
+1 WIFE @P195@
+1 CHIL @P190@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P191@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P192@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P193@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P194@
+2 _FREL Natural
+2 _MREL Natural
+0 @F54@ FAM 
+1 HUSB @P189@
+1 WIFE @P127@
+0 @F55@ FAM 
+1 HUSB @P196@
+1 WIFE @P125@
+0 @F56@ FAM 
+1 HUSB @P199@
+1 WIFE @P176@
+0 @F57@ FAM 
+1 HUSB @P180@
+1 WIFE @P201@
+1 CHIL @P202@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P203@
+2 _FREL Natural
+2 _MREL Natural
+0 @F58@ FAM 
+1 HUSB @P180@
+1 WIFE @P204@
+1 MARR 
+2 DATE 1539
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+0 @F59@ FAM 
+1 HUSB @P207@
+1 WIFE @P206@
+1 CHIL @P204@
+2 _FREL Natural
+2 _MREL Natural
+0 @F60@ FAM 
+1 HUSB @P192@
+1 WIFE @P219@
+1 CHIL @P213@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P214@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P216@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P217@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P215@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P218@
+2 _FREL Natural
+2 _MREL Natural
+0 @F61@ FAM 
+1 HUSB @P192@
+1 WIFE @P220@
+1 CHIL @P210@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P211@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P212@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 1551
+2 SOUR @S1454309957@
+3 PAGE Lomellini, plate 40
+0 @F62@ FAM 
+1 HUSB @P221@
+1 WIFE @P191@
+0 @F63@ FAM 
+1 HUSB @P209@
+1 WIFE @P193@
+0 @F64@ FAM 
+1 HUSB @P211@
+1 WIFE @P230@
+1 MARR 
+2 DATE 1567
+2 SOUR @S1454317950@
+3 PAGE Lomellini, plate 40
+0 @F65@ FAM 
+1 HUSB @P229@
+1 WIFE @P212@
+0 @F66@ FAM 
+1 HUSB @P227@
+1 WIFE @P216@
+0 @F67@ FAM 
+1 HUSB @P228@
+1 WIFE @P214@
+0 @F68@ FAM 
+1 HUSB @P35@
+1 WIFE @P240@
+1 CHIL @P236@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P234@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P235@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P237@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P238@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P239@
+2 _FREL Natural
+2 _MREL Natural
+0 @F69@ FAM 
+1 HUSB @P33@
+1 WIFE @P250@
+1 CHIL @P241@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P244@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P243@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P242@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P246@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P247@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P248@
+2 _FREL Natural
+2 _MREL Natural
+0 @F70@ FAM 
+1 HUSB @P33@
+1 WIFE @P251@
+1 CHIL @P245@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P249@
+2 _FREL Natural
+2 _MREL Natural
+0 @F71@ FAM 
+1 HUSB @P254@
+1 WIFE @P32@
+0 @F72@ FAM 
+1 HUSB @P256@
+1 WIFE @P31@
+0 @F73@ FAM 
+1 HUSB @P258@
+1 WIFE @P30@
+0 @F74@ FAM 
+1 HUSB @P260@
+1 WIFE @P29@
+0 @F75@ FAM 
+1 HUSB @P153@
+1 WIFE @P38@
+1 CHIL @P146@
+1 CHIL @P148@
+0 @F76@ FAM 
+1 HUSB @P22@
+1 WIFE @P21@
+1 CHIL @P19@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P266@
+2 _FREL Natural
+2 _MREL Natural
+0 @F77@ FAM 
+1 HUSB @P268@
+1 WIFE @P266@
+0 @F78@ FAM 
+1 HUSB @P245@
+1 WIFE @P272@
+1 CHIL @P270@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P271@
+2 _FREL Natural
+2 _MREL Natural
+0 @F79@ FAM 
+1 HUSB @P114@
+1 WIFE @P246@
+0 @F80@ FAM 
+1 HUSB @P273@
+1 WIFE @P243@
+0 @F81@ FAM 
+1 HUSB @P274@
+1 WIFE @P242@
+0 @F82@ FAM 
+1 HUSB @P275@
+1 WIFE @P241@
+0 @F83@ FAM 
+1 HUSB @P151@
+1 WIFE @P284@
+1 CHIL @P280@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P281@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P282@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P283@
+2 _FREL Natural
+2 _MREL Natural
+0 @F84@ FAM 
+1 HUSB @P147@
+1 WIFE @P290@
+1 CHIL @P286@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P287@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P288@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P289@
+2 _FREL Natural
+2 _MREL Natural
+0 @F85@ FAM 
+1 HUSB @P292@
+1 WIFE @P271@
+0 @F86@ FAM 
+1 HUSB @P294@
+1 WIFE @P281@
+0 @F87@ FAM 
+1 HUSB @P296@
+1 WIFE @P289@
+0 @F88@ FAM 
+1 HUSB @P239@
+1 WIFE @P305@
+1 CHIL @P299@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P300@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P301@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P302@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P303@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P304@
+2 _FREL Natural
+2 _MREL Natural
+0 @F89@ FAM 
+1 HUSB @P235@
+1 WIFE @P315@
+1 CHIL @P310@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P312@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P313@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P314@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P308@
+2 _FREL Natural
+2 _MREL Natural
+0 @F90@ FAM 
+1 HUSB @P235@
+1 WIFE @P316@
+1 CHIL @P307@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P309@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P311@
+2 _FREL Natural
+2 _MREL Natural
+0 @F91@ FAM 
+1 HUSB @P306@
+1 WIFE @P238@
+0 @F92@ FAM 
+1 HUSB @P263@
+1 WIFE @P236@
+0 @F93@ FAM 
+1 HUSB @P317@
+1 WIFE @P234@
+0 @F94@ FAM 
+1 HUSB @P325@
+1 WIFE @P302@
+0 @F95@ FAM 
+1 HUSB @P324@
+1 WIFE @P302@
+0 @F96@ FAM 
+1 HUSB @P314@
+1 WIFE @P330@
+1 CHIL @P328@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P329@
+2 _FREL Natural
+2 _MREL Natural
+0 @F97@ FAM 
+1 HUSB @P308@
+1 WIFE @P338@
+1 CHIL @P337@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P336@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P333@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P334@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P335@
+2 _FREL Natural
+2 _MREL Natural
+0 @F98@ FAM 
+1 HUSB @P308@
+1 WIFE @P339@
+0 @F99@ FAM 
+1 HUSB @P331@
+1 WIFE @P311@
+0 @F100@ FAM 
+1 HUSB @P332@
+1 WIFE @P310@
+0 @F101@ FAM 
+1 HUSB @P323@
+1 WIFE @P347@
+1 CHIL @P345@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P346@
+2 _FREL Natural
+2 _MREL Natural
+0 @F102@ FAM 
+1 HUSB @P329@
+1 WIFE @P356@
+1 CHIL @P350@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P351@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P352@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P353@
+2 _FREL Natural
+2 _MREL Natural
+0 @F103@ FAM 
+1 HUSB @P329@
+1 WIFE @P357@
+1 CHIL @P349@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P354@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P355@
+2 _FREL Natural
+2 _MREL Natural
+0 @F104@ FAM 
+1 HUSB @P328@
+1 WIFE @P358@
+0 @F105@ FAM 
+1 HUSB @P362@
+1 WIFE @P337@
+0 @F106@ FAM 
+1 HUSB @P364@
+1 WIFE @P336@
+0 @F107@ FAM 
+1 HUSB @P363@
+1 WIFE @P336@
+0 @F108@ FAM 
+1 HUSB @P65@
+1 CHIL @P5@
+2 _FREL Natural
+0 @F109@ FAM 
+1 HUSB @P39@
+1 CHIL @P10@
+2 _FREL Natural
+0 @F110@ FAM 
+1 HUSB @P145@
+1 CHIL @P20@
+2 _FREL Natural
+0 @F111@ FAM 
+1 HUSB @P267@
+1 CHIL @P22@
+2 _FREL Natural
+0 @F112@ FAM 
+1 HUSB @P66@
+1 CHIL @P47@
+2 _FREL Natural
+0 @F113@ FAM 
+1 HUSB @P67@
+1 CHIL @P48@
+2 _FREL Natural
+0 @F114@ FAM 
+1 HUSB @P68@
+1 CHIL @P51@
+2 _FREL Natural
+0 @F115@ FAM 
+1 HUSB @P71@
+1 CHIL @P60@
+2 _FREL Natural
+0 @F116@ FAM 
+1 HUSB @P72@
+1 CHIL @P61@
+2 _FREL Natural
+0 @F117@ FAM 
+1 HUSB @P73@
+1 CHIL @P63@
+2 _FREL Natural
+0 @F118@ FAM 
+1 HUSB @P174@
+1 CHIL @P83@
+2 _FREL Natural
+0 @F119@ FAM 
+1 HUSB @P85@
+1 CHIL @P84@
+2 _FREL Natural
+0 @F120@ FAM 
+1 HUSB @P87@
+1 CHIL @P86@
+2 _FREL Natural
+0 @F121@ FAM 
+1 HUSB @P88@
+1 CHIL @P87@
+2 _FREL Natural
+0 @F122@ FAM 
+1 HUSB @P96@
+1 CHIL @P95@
+2 _FREL Natural
+0 @F123@ FAM 
+1 HUSB @P99@
+1 CHIL @P97@
+2 _FREL Natural
+0 @F124@ FAM 
+1 HUSB @P101@
+1 CHIL @P100@
+2 _FREL Natural
+0 @F125@ FAM 
+1 HUSB @P108@
+1 CHIL @P102@
+2 _FREL Natural
+0 @F126@ FAM 
+1 HUSB @P109@
+1 CHIL @P103@
+2 _FREL Natural
+0 @F127@ FAM 
+1 HUSB @P110@
+1 CHIL @P104@
+2 _FREL Natural
+0 @F128@ FAM 
+1 HUSB @P111@
+1 CHIL @P105@
+2 _FREL Natural
+0 @F129@ FAM 
+1 HUSB @P112@
+1 CHIL @P106@
+2 _FREL Natural
+0 @F130@ FAM 
+1 HUSB @P113@
+1 CHIL @P107@
+2 _FREL Natural
+1 CHIL @P114@
+2 _FREL Natural
+0 @F131@ FAM 
+1 HUSB @P115@
+1 CHIL @P113@
+2 _FREL Natural
+0 @F132@ FAM 
+1 HUSB @P139@
+1 CHIL @P123@
+2 _FREL Natural
+0 @F133@ FAM 
+1 HUSB @P188@
+1 CHIL @P129@
+2 _FREL Natural
+0 @F134@ FAM 
+1 HUSB @P187@
+1 CHIL @P130@
+2 _FREL Natural
+0 @F135@ FAM 
+1 HUSB @P140@
+1 CHIL @P131@
+2 _FREL Natural
+0 @F136@ FAM 
+1 HUSB @P142@
+1 CHIL @P132@
+2 _FREL Natural
+0 @F137@ FAM 
+1 HUSB @P144@
+1 CHIL @P133@
+2 _FREL Natural
+0 @F138@ FAM 
+1 HUSB @P154@
+1 CHIL @P138@
+2 _FREL Natural
+0 @F139@ FAM 
+1 HUSB @P141@
+1 CHIL @P140@
+2 _FREL Natural
+0 @F140@ FAM 
+1 HUSB @P143@
+1 CHIL @P142@
+2 _FREL Natural
+0 @F141@ FAM 
+1 HUSB @P264@
+1 CHIL @P152@
+2 _FREL Natural
+0 @F142@ FAM 
+1 HUSB @P265@
+1 CHIL @P153@
+2 _FREL Natural
+0 @F143@ FAM 
+1 HUSB @P155@
+1 CHIL @P154@
+2 _FREL Natural
+0 @F144@ FAM 
+1 HUSB @P157@
+1 CHIL @P156@
+2 _FREL Natural
+0 @F145@ FAM 
+1 HUSB @P159@
+1 CHIL @P158@
+2 _FREL Natural
+0 @F146@ FAM 
+1 HUSB @P166@
+1 CHIL @P161@
+2 _FREL Natural
+0 @F147@ FAM 
+1 HUSB @P168@
+1 CHIL @P162@
+2 _FREL Natural
+0 @F148@ FAM 
+1 HUSB @P171@
+1 CHIL @P164@
+2 _FREL Natural
+0 @F149@ FAM 
+1 HUSB @P169@
+1 CHIL @P165@
+2 _FREL Natural
+0 @F150@ FAM 
+1 HUSB @P167@
+1 CHIL @P166@
+2 _FREL Natural
+0 @F151@ FAM 
+1 HUSB @P173@
+1 CHIL @P170@
+2 _FREL Natural
+0 @F152@ FAM 
+1 HUSB @P172@
+1 CHIL @P171@
+2 _FREL Natural
+0 @F153@ FAM 
+1 HUSB @P175@
+1 CHIL @P174@
+2 _FREL Natural
+0 @F154@ FAM 
+1 HUSB @P184@
+1 CHIL @P178@
+2 _FREL Natural
+0 @F155@ FAM 
+1 HUSB @P183@
+1 CHIL @P179@
+2 _FREL Natural
+0 @F156@ FAM 
+1 HUSB @P185@
+1 CHIL @P181@
+2 _FREL Natural
+0 @F157@ FAM 
+1 HUSB @P186@
+1 CHIL @P182@
+2 _FREL Natural
+0 @F158@ FAM 
+1 HUSB @P197@
+1 CHIL @P189@
+2 _FREL Natural
+0 @F159@ FAM 
+1 HUSB @P198@
+1 CHIL @P195@
+2 _FREL Natural
+1 CHIL @P196@
+2 _FREL Natural
+0 @F160@ FAM 
+1 HUSB @P200@
+1 CHIL @P199@
+2 _FREL Natural
+0 @F161@ FAM 
+1 HUSB @P205@
+1 CHIL @P201@
+2 _FREL Natural
+0 @F162@ FAM 
+1 HUSB @P208@
+1 CHIL @P206@
+2 _FREL Natural
+0 @F163@ FAM 
+1 HUSB @P226@
+1 CHIL @P209@
+2 _FREL Natural
+0 @F164@ FAM 
+1 HUSB @P223@
+1 CHIL @P219@
+2 _FREL Natural
+0 @F165@ FAM 
+1 HUSB @P222@
+1 CHIL @P220@
+2 _FREL Natural
+0 @F166@ FAM 
+1 HUSB @P225@
+1 CHIL @P221@
+2 _FREL Natural
+0 @F167@ FAM 
+1 HUSB @P224@
+1 CHIL @P223@
+2 _FREL Natural
+0 @F168@ FAM 
+1 HUSB @P231@
+1 CHIL @P229@
+2 _FREL Natural
+0 @F169@ FAM 
+1 HUSB @P233@
+1 CHIL @P230@
+2 _FREL Natural
+0 @F170@ FAM 
+1 HUSB @P232@
+1 CHIL @P231@
+2 _FREL Natural
+0 @F171@ FAM 
+1 HUSB @P298@
+1 CHIL @P240@
+2 _FREL Natural
+0 @F172@ FAM 
+1 HUSB @P253@
+1 CHIL @P250@
+2 _FREL Natural
+0 @F173@ FAM 
+1 HUSB @P252@
+1 CHIL @P251@
+2 _FREL Natural
+0 @F174@ FAM 
+1 HUSB @P255@
+1 CHIL @P254@
+2 _FREL Natural
+0 @F175@ FAM 
+1 HUSB @P257@
+1 CHIL @P256@
+2 _FREL Natural
+0 @F176@ FAM 
+1 HUSB @P259@
+1 CHIL @P258@
+2 _FREL Natural
+0 @F177@ FAM 
+1 HUSB @P261@
+1 CHIL @P260@
+2 _FREL Natural
+1 CHIL @P263@
+2 _FREL Natural
+0 @F178@ FAM 
+1 HUSB @P262@
+1 CHIL @P261@
+2 _FREL Natural
+0 @F179@ FAM 
+1 HUSB @P269@
+1 CHIL @P268@
+2 _FREL Natural
+0 @F180@ FAM 
+1 HUSB @P276@
+1 CHIL @P272@
+2 _FREL Natural
+0 @F181@ FAM 
+1 HUSB @P277@
+1 CHIL @P273@
+2 _FREL Natural
+0 @F182@ FAM 
+1 HUSB @P278@
+1 CHIL @P274@
+2 _FREL Natural
+0 @F183@ FAM 
+1 HUSB @P279@
+1 CHIL @P275@
+2 _FREL Natural
+0 @F184@ FAM 
+1 HUSB @P285@
+1 CHIL @P284@
+2 _FREL Natural
+0 @F185@ FAM 
+1 HUSB @P291@
+1 CHIL @P290@
+2 _FREL Natural
+0 @F186@ FAM 
+1 HUSB @P293@
+1 CHIL @P292@
+2 _FREL Natural
+0 @F187@ FAM 
+1 HUSB @P295@
+1 CHIL @P294@
+2 _FREL Natural
+0 @F188@ FAM 
+1 HUSB @P297@
+1 CHIL @P296@
+2 _FREL Natural
+0 @F189@ FAM 
+1 HUSB @P318@
+1 CHIL @P305@
+2 _FREL Natural
+0 @F190@ FAM 
+1 HUSB @P319@
+1 CHIL @P306@
+2 _FREL Natural
+0 @F191@ FAM 
+1 HUSB @P321@
+1 CHIL @P315@
+2 _FREL Natural
+0 @F192@ FAM 
+1 HUSB @P320@
+1 CHIL @P316@
+2 _FREL Natural
+0 @F193@ FAM 
+1 HUSB @P322@
+1 CHIL @P317@
+2 _FREL Natural
+0 @F194@ FAM 
+1 HUSB @P303@
+1 CHIL @P323@
+2 _FREL Natural
+0 @F195@ FAM 
+1 HUSB @P327@
+1 CHIL @P324@
+2 _FREL Natural
+0 @F196@ FAM 
+1 HUSB @P326@
+1 CHIL @P325@
+2 _FREL Natural
+0 @F197@ FAM 
+1 HUSB @P340@
+1 CHIL @P330@
+2 _FREL Natural
+0 @F198@ FAM 
+1 HUSB @P341@
+1 CHIL @P331@
+2 _FREL Natural
+0 @F199@ FAM 
+1 HUSB @P342@
+1 CHIL @P332@
+2 _FREL Natural
+0 @F200@ FAM 
+1 HUSB @P344@
+1 CHIL @P338@
+2 _FREL Natural
+0 @F201@ FAM 
+1 HUSB @P343@
+1 CHIL @P339@
+2 _FREL Natural
+0 @F202@ FAM 
+1 HUSB @P348@
+1 CHIL @P347@
+2 _FREL Natural
+0 @F203@ FAM 
+1 HUSB @P360@
+1 CHIL @P356@
+2 _FREL Natural
+0 @F204@ FAM 
+1 HUSB @P359@
+1 CHIL @P357@
+2 _FREL Natural
+0 @F205@ FAM 
+1 HUSB @P361@
+1 CHIL @P358@
+2 _FREL Natural
+0 @F206@ FAM 
+1 HUSB @P365@
+1 CHIL @P362@
+2 _FREL Natural
+0 @F207@ FAM 
+1 HUSB @P367@
+1 CHIL @P363@
+2 _FREL Natural
+0 @F208@ FAM 
+1 HUSB @P366@
+1 CHIL @P364@
+2 _FREL Natural
+0 @R1450259201@ REPO
+1 NAME Ancestry.com
+0 @R1450274501@ REPO
+1 NAME University of Toronto Libraries
+1 ADDR 
+1 NOTE 
+0 @S1454309957@ SOUR
+1 REPO @R1450274501@
+1 TITL Geneaologie delle famiglie nobili di Genova
+1 AUTH Natale Battilana
+1 PUBL Bologna Forni
+1 CALN CS767 .G4 B38
+1 NOTE Reprint of the 1825-33 edition, published in 1971.
+0 @S1454313143@ SOUR
+1 REPO @R1450259201@
+1 TITL Web: Netherlands, GenealogieOnline Trees Index, 1000-2015
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,9289::0
+0 @S1454317950@ SOUR
+1 TITL Dizionario Biografico degli Italiani
+1 PUBL Treccani
+1 NOTE 
+0 TRLR
