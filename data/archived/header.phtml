@@ -1,0 +1,44 @@
+<?php
+$translate = $this->plugin('translate');
+$navDepth = (int) $this->themeSetting('nav_depth') ? (int) $this->themeSetting('nav_depth') -1 : -1;
+?>
+
+<header class="main-header">
+
+	<?php echo $userBar; ?>
+
+	<hr class="alignfull">
+
+	<div class="main-header__main-bar container">
+		<div class="main-header__site-title">
+			<a href="<?php echo $site->url(); ?>">
+			<?php if ($this->themeSetting('logo')): ?>
+				<img src="<?php echo $this->themeSettingAssetUrl('logo'); ?>" alt="<?php echo $this->escapeHtml( $site->title() ); ?>" />
+			<?php else: ?>
+				<?php echo $this->escapeHtml( $site->title() ); ?>
+			<?php endif; ?>
+			</a>
+		</div>
+
+		<nav class="main-navigation">
+			<div class="main-navigation__container">
+				<?php
+				echo $site->publicNav()->menu()->renderMenu(null, [
+					'addClassToListItem' => true,
+					'maxDepth' => $navDepth
+				]);
+				?>
+			</div>
+			<div class="main-navigation__toggle"
+				 tabindex="0"
+				 role="button"
+				 aria-expanded="false"
+				 aria-controls="menu-drawer"
+				 aria-labelledby="menu-backer">
+				<span></span>
+				<span></span>
+				<span></span>
+			</div>
+		</nav>
+
+</header>
